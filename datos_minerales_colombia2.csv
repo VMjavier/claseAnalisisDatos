@@ -1,0 +1,501 @@
+ID_Muestra,Nombre_Mineral,Tipo_Mineral,Densidad_g_cm3,Dureza_Mohs,Pureza_Porcentaje,Peso_Muestra_kg,Volumen_cm3,Uso_Principal,Pais_Origen,Anio_Descubrimiento
+1,Caolín,Precioso,7.15,4.4,51.54,358.529,935.57,Electrónica,India,1548.0
+2,Esmeralda,Precioso,11.59,1.3,,,258.48,Cerámica,India,
+3,Hierro,No Metálico,15.76,4.8,,217.015,542.62,Cerámica,Chile,1928.0
+4,Azufre,Precioso,8.38,1.8,92.93,,824.63,Automoción,Indonesia,2021.0
+5,Azufre,Industrial,15.08,7.2,82.56,153.357,838.79,Joyería,Indonesia,1518.0
+6,Mercurio,Metálico,14.72,2.7,85.32,288.885,490.75,Vidrio,Estados Unidos,1526.0
+7,Cuarzo,Precioso,10.35,5.6,53.52%,327.532,372.86,Electrónica,Argentina,1933.0
+8,Calcita,Energético,10.51,4.8,64.14,307.165,197.34,Generación de Energía,China,1891.0
+9,Sal,No Metálico,19.52,5.6,77.75,133.63,942.47,Automoción,Canadá,1991.0
+10,Barita,Metálico,4.82y,,50.19,488.749,293.8,Construcción,Ecuador,1735.0
+11,Carbón,Metálico,3.41,8.1,50.87,,606.18,Construcción,China,1923.0
+12,Cobre,Energético,11.67,4.2,80.71%,46.623,253.08,Electrónica,Rusia,1615.0
+13,Platino,Precioso,8.53,3.3,53.8,111.357,351.72,Vidrio,Sudáfrica,1538.0
+14,Azufre,Energético,14.56,10.0,,207.961,825.88,Aleaciones,Argentina,1927.0
+15,Calcita,Energético,16.34,4.2,82.47,5.042,722.81,Vidrio,México,1933.0
+16,Feldespato,Energético,5.98,1.9,79.83,30.381,808.49,Cosméticos,China,1981.0
+17,Hierro,Energético,19.58,8.8,83.89%,477.443,423.44,Industria Química,Perú,1511.0
+18,Uranio,Metálico,3.37,,82.29,209.161,852.97,Construcción,Colombia,1743.0
+19,Plata,No Metálico,13.9,2.6,51.97,334.2,734.01,Joyería,Sudáfrica,1974.0
+20,Zinc,Metálico,6.13,9.8,70.64,,399.16,Agricultura,Perú,1693.0
+21,Calcita,Energético,3.82,,87.4,179.676,657.99,Industria Química,Bolivia,1948.0
+22,Uranio,Energético,19.64,5.0,96.34,443.767,10.25,Automoción,Perú,1888.0
+23,Granito,Metálico,,2.6,96.77,,735.46,Vidrio,China,1708.0
+24,Yeso,Precioso,18.27,7.9,91.21,,,Automoción,Sudáfrica,1824.0
+25,Mercurio,No Metálico,5.13x,2.2,85.84,126.583,984.06,Tecnología,Australia,1954.0
+26,Yeso,Metálico,7.57,2.4,,,689.12,Joyería,Perú,1893.0
+27,Plata,Metálico,17.87y,4.0,78.39,,858.64,Cosméticos,Argentina,1788.0
+28,Grafito,Energético,11.83,5.0,59.5,,840.27,Generación de Energía,Canadá,1643.0
+29,Níquel,Precioso,3.94,10.0,94.3,228.28,208.5,Cosméticos,México,1576.0
+30,Granito,Industrial,4.84x,,69.17%,165.072,918.33,Electrónica,Rusia,1922.0
+31,Cobre,Energético,1.77,6.4,70.52,483.526,603.26,Agricultura,Argentina,1617.0
+32,Platino,Energético,7.47,4.7,81.75,204.749,488.55,Industria Química,Rusia,1789.0
+33,Platino,No Metálico,4.54,,77.11,494.821,,Vidrio,Estados Unidos,1819.0
+34,Fosfato,Metálico,11.27,7.8,,31.81,645.18,Construcción,Perú,1834.0
+35,Calcita,Industrial,10.57y,9.9,,79.028,580.73,Aleaciones,India,1635.0
+36,Azufre,Industrial,7.23,2.0,98.82,228.405,386.5,Tecnología,China,1823.0
+37,Manganeso,No Metálico,2.91y,7.5,90.6,7.83,793.56,Aleaciones,Bolivia,1655.0
+38,Zinc,Precioso,,7.5,80.22,476.403,588.04,Cerámica,Kazajistán,1716.0
+39,Diamante,Precioso,18.93,5.3,77.0,441.657,305.29,Medicina,Canadá,1837.0
+40,Fosfato,Industrial,11.48x,8.4,58.6,264.505,893.67,Cosméticos,Chile,1915.0
+41,Azufre,No Metálico,9.39,4.0,50.76,263.264,69.92,Electrónica,Perú,1527.0
+42,Caolín,Precioso,17.82y,,98.14%,,502.23,Industria Química,Estados Unidos,1941.0
+43,Yeso,Precioso,14.41,4.6,97.01%,16.56,630.38,Electrónica,Chile,1553.0
+44,Níquel,No Metálico,13.0,,68.63%,414.883,567.25,Medicina,Chile,1868.0
+45,Carbón,Precioso,6.48,6.8,82.44,435.516,99.15,Agricultura,Colombia,1571.0
+46,Granito,Industrial,1.84,6.9,,315.134,399.39,Cerámica,Australia,1580.0
+47,Níquel,Metálico,8.92,1.3,80.69,413.438,,Electrónica,Estados Unidos,1862.0
+48,Diamante,Energético,17.27,9.8,87.72,48.704,789.11,Automoción,India,1592.0
+49,Grafito,No Metálico,8.3,2.6,67.35,169.337,37.95,Agricultura,Ecuador,1779.0
+50,Carbón,Industrial,6.84,8.9,77.54,83.973,408.3,Agricultura,Rusia,1770.0
+51,Diamante,Precioso,8.18,5.5,84.2,206.175,60.37,Generación de Energía,Chile,
+52,Oro,Energético,12.54,7.8,54.18,105.214,,Electrónica,Estados Unidos,
+53,Manganeso,Industrial,,,70.01,33.77,837.28,Cerámica,Indonesia,1774.0
+54,Uranio,Precioso,14.36,6.7,80.18%,483.147,192.23,Vidrio,Indonesia,1659.0
+55,Mercurio,Precioso,1.25,,,185.215,,Aleaciones,Bolivia,1880.0
+56,Grafito,No Metálico,16.97,3.4,61.98,430.755,283.08,Vidrio,Estados Unidos,1818.0
+57,Azufre,Metálico,,4.0,70.41,,872.94,Agricultura,Brasil,2023.0
+58,Platino,Precioso,,5.9,59.92%,4.713,770.41,Electrónica,Australia,1677.0
+59,Cuarzo,Metálico,15.22,9.9,,393.837,,Joyería,Indonesia,1775.0
+60,Uranio,No Metálico,6.49,6.8,55.63,78.313,970.71,Cerámica,Canadá,1765.0
+61,Uranio,Metálico,6.9,4.7,67.8,194.352,74.49,Joyería,Ecuador,1731.0
+62,Cuarzo,No Metálico,19.83,6.0,92.12,,613.56,Industria Química,Estados Unidos,1697.0
+63,Zinc,Industrial,11.88,,78.74,138.296,472.19,Generación de Energía,Sudáfrica,1824.0
+64,Piedra Caliza,Precioso,6.68,6.8,62.93,206.798,702.55,Cosméticos,Canadá,1542.0
+65,Cuarzo,Precioso,15.52,9.0,,388.624,124.96,Automoción,Colombia,
+66,Granito,No Metálico,1.03,1.2,96.73,,154.95,Automoción,Estados Unidos,1509.0
+67,Piedra Caliza,No Metálico,12.05,5.8,83.16,287.088,391.98,Aleaciones,Kazajistán,1551.0
+68,Esmeralda,Precioso,2.57,8.4,,336.418,312.15,Vidrio,Indonesia,1915.0
+69,Grafito,No Metálico,6.19,8.5,,75.773,552.65,Construcción,Chile,1897.0
+70,Diamante,Energético,5.5,,50.57,388.623,36.81,Industria Química,Rusia,1612.0
+71,Platino,Industrial,,7.1,90.29,,795.63,Cerámica,Colombia,1802.0
+72,Granito,Industrial,3.38,5.6,,284.606,901.1,Automoción,Chile,1780.0
+73,Cobre,Energético,14.15,4.2,71.17,,141.33,Electrónica,Rusia,1817.0
+74,Carbón,Industrial,8.7,,76.94,334.539,2.81,Construcción,Bolivia,1587.0
+75,Níquel,No Metálico,1.83,4.6,78.17,271.81,580.47,Construcción,Indonesia,1543.0
+76,Calcita,Industrial,6.08,5.3,82.69,400.32,282.68,Industria Química,India,2008.0
+77,Esmeralda,Metálico,1.82,7.8,56.62,444.58,399.68,Generación de Energía,Sudáfrica,1817.0
+78,Hierro,Precioso,10.43,2.6,,38.076,,Construcción,Chile,1649.0
+79,Piedra Caliza,Metálico,,4.7,,74.748,86.39,Cosméticos,Canadá,1936.0
+80,Sal,Precioso,1.84,8.7,81.88,,279.4,Automoción,Australia,1845.0
+81,Níquel,Industrial,7.69,1.5,80.9,389.163,471.01,Industria Química,Indonesia,1741.0
+82,Diamante,No Metálico,14.01,4.9,87.86,109.894,,Joyería,India,1611.0
+83,Uranio,Metálico,1.58,9.0,83.98,264.147,783.44,Industria Química,India,1669.0
+84,Bauxita,Precioso,15.54,6.7,,427.923,60.84,Vidrio,Rusia,1562.0
+85,Calcita,No Metálico,,1.8,53.89,401.243,,Cosméticos,Argentina,1790.0
+86,Oro,Precioso,4.43,,72.54,247.392,878.52,Joyería,Kazajistán,1710.0
+87,Manganeso,Precioso,3.58,8.9,53.38,262.564,,Automoción,Argentina,1774.0
+88,Diamante,No Metálico,9.85,5.1,59.81,330.742,348.13,Cosméticos,Ecuador,1784.0
+89,Diamante,Metálico,15.48,4.4,,,,Joyería,México,1867.0
+90,Feldespato,No Metálico,19.04,2.8,73.8,169.693,204.09,Aleaciones,Sudáfrica,1681.0
+91,Azufre,Precioso,17.94x,8.6,98.91,60.681,337.21,Automoción,Ecuador,1610.0
+92,Plata,Energético,13.43,2.7,51.84%,376.964,,Construcción,Australia,1739.0
+93,Barita,Metálico,5.05,4.1,76.55,142.45,226.18,Construcción,Estados Unidos,2004.0
+94,Cuarzo,No Metálico,11.72,4.0,50.3,275.851,877.91,Joyería,Brasil,1510.0
+95,Oro,Industrial,16.31,8.8,,297.235,104.07,Aleaciones,Ecuador,1625.0
+96,Cobre,Metálico,5.41,7.2,65.96,42.207,648.8,Electrónica,China,1800.0
+97,Bauxita,Energético,3.24y,7.9,71.25,,359.87,Construcción,Ecuador,2000.0
+98,Diamante,Precioso,17.29y,2.5,96.57,147.612,612.01,Aleaciones,Australia,1575.0
+99,Yeso,Energético,13.67,4.7,,266.86,115.87,Agricultura,Brasil,1987.0
+100,Bauxita,No Metálico,11.37,5.7,57.07,9.223,532.52,Tecnología,Argentina,1579.0
+101,Carbón,Industrial,16.46y,,70.19%,411.678,648.1,Tecnología,Kazajistán,1878.0
+102,Barita,No Metálico,4.87,2.5,,339.159,,Joyería,Brasil,1806.0
+103,Esmeralda,Industrial,2.0,2.4,84.89,254.706,458.23,Agricultura,Kazajistán,1968.0
+104,Plata,Energético,5.66,7.1,,68.501,439.2,Tecnología,Ecuador,1566.0
+105,Bauxita,Metálico,13.89,1.9,,143.497,,Medicina,Bolivia,1820.0
+106,Níquel,Precioso,,1.8,61.24,413.13,22.65,Cerámica,Canadá,1602.0
+107,Sal,Industrial,18.64,5.1,90.94,407.086,604.83,Automoción,India,2004.0
+108,Carbón,No Metálico,17.43,9.5,64.06,,262.58,Joyería,Indonesia,1787.0
+109,Caolín,Industrial,14.8,8.6,80.77,,686.5,Generación de Energía,Estados Unidos,1840.0
+110,Oro,Energético,18.8,9.8,54.39,297.505,962.52,Medicina,Perú,1653.0
+111,Mercurio,Precioso,13.47,2.4,64.72,,472.29,Industria Química,Chile,1956.0
+112,Carbón,No Metálico,17.81,5.5,69.07,157.373,520.9,Electrónica,Ecuador,2015.0
+113,Piedra Caliza,No Metálico,11.45,,99.05,307.44,349.63,Cosméticos,Colombia,1602.0
+114,Barita,Industrial,8.0,2.5,84.22,265.497,972.24,Cerámica,Colombia,1963.0
+115,Yeso,Metálico,8.98y,9.6,,98.791,,Aleaciones,Brasil,1776.0
+116,Esmeralda,Energético,,6.4,77.61,420.364,,Electrónica,Ecuador,1822.0
+117,Piedra Caliza,Energético,4.48,,78.42,416.83,703.92,Aleaciones,Brasil,1584.0
+118,Fosfato,Industrial,4.53y,5.2,88.55,246.74,174.75,Construcción,Ecuador,1608.0
+119,Fosfato,Industrial,10.88,6.2,67.94,53.794,676.73,Vidrio,Chile,1946.0
+120,Platino,Metálico,15.5,6.8,64.19,201.384,114.5,Vidrio,Perú,1717.0
+121,Yeso,Precioso,,6.2,61.4,305.056,64.72,Joyería,Bolivia,1705.0
+122,Zinc,Precioso,12.17,4.9,97.25,212.356,,Automoción,Argentina,1992.0
+123,Manganeso,Precioso,,1.3,59.25,408.977,832.48,Medicina,Bolivia,1946.0
+124,Zinc,Precioso,13.72,9.6,54.5,279.198,914.24,Medicina,Argentina,1632.0
+125,Manganeso,No Metálico,,,81.75,,982.03,Industria Química,China,1908.0
+126,Hierro,Precioso,16.95,6.7,99.08,434.133,631.53,Generación de Energía,Australia,1792.0
+127,Platino,Industrial,4.54,4.6,94.94,2.317,153.43,Vidrio,Sudáfrica,1550.0
+128,Caolín,No Metálico,14.08,7.4,61.46,326.901,391.38,Aleaciones,Estados Unidos,
+129,Granito,Metálico,12.56,1.8,70.71,79.948,194.48,Industria Química,India,1646.0
+130,Azufre,Industrial,9.74,4.5,78.97,91.009,765.88,Cerámica,Colombia,1852.0
+131,Carbón,Industrial,8.22,8.0,94.77,177.487,534.56,Cerámica,Kazajistán,1552.0
+132,Carbón,Metálico,19.52,6.5,78.02,204.343,,Generación de Energía,India,1784.0
+133,Platino,Metálico,,,97.21,338.85,871.77,Aleaciones,Canadá,
+134,Hierro,Energético,15.04,2.4,,492.827,,Cerámica,China,
+135,Níquel,Metálico,6.48,4.5,72.33,112.471,894.83,Cosméticos,Kazajistán,2002.0
+136,Cuarzo,No Metálico,16.88x,6.9,91.37,,164.8,Tecnología,China,1719.0
+137,Esmeralda,Metálico,6.68x,3.9,90.49,16.379,519.91,Cerámica,Australia,1851.0
+138,Azufre,Industrial,5.59,3.6,88.61,32.438,,Agricultura,Canadá,1831.0
+139,Sal,Industrial,,,,92.523,,Vidrio,China,1894.0
+140,Feldespato,No Metálico,4.68,8.9,97.13,339.316,,Tecnología,Bolivia,1767.0
+141,Zinc,No Metálico,,9.3,81.99,81.641,81.92,Electrónica,Canadá,1802.0
+142,Cuarzo,Metálico,3.17y,8.1,,262.613,,Electrónica,Argentina,
+143,Carbón,Industrial,3.33,2.0,93.35,202.644,,Vidrio,Brasil,1625.0
+144,Níquel,Metálico,16.56,10.0,70.92,382.135,472.53,Cosméticos,Ecuador,1523.0
+145,Manganeso,Industrial,2.87y,1.9,75.09,239.423,834.3,Cosméticos,Brasil,1611.0
+146,Cobre,Precioso,8.57,9.8,74.82,113.858,,Industria Química,Estados Unidos,1608.0
+147,Calcita,Energético,15.06,4.4,82.29,34.792,875.71,Aleaciones,Bolivia,1907.0
+148,Fosfato,Industrial,6.76,10.0,87.27,197.528,948.98,Electrónica,Sudáfrica,1816.0
+149,Esmeralda,No Metálico,18.61x,,52.35,447.65,363.04,Industria Química,Chile,1790.0
+150,Calcita,Industrial,18.59,1.8,71.4,410.322,514.89,Aleaciones,Brasil,1972.0
+151,Diamante,Energético,12.56,4.7,74.43,109.284,,Industria Química,Kazajistán,1649.0
+152,Calcita,Energético,4.67,2.3,,117.899,199.01,Aleaciones,India,1625.0
+153,Cobre,No Metálico,13.27,9.6,74.46,101.177,257.64,Industria Química,China,1555.0
+154,Manganeso,Industrial,,9.6,76.11,404.384,289.84,Generación de Energía,Rusia,1744.0
+155,Cobre,No Metálico,7.14,2.9,68.02,,580.29,Electrónica,Perú,1600.0
+156,Mercurio,Industrial,15.02,2.6,63.54,115.79,354.37,Electrónica,Perú,2007.0
+157,Níquel,No Metálico,15.92,9.3,,371.576,195.43,Medicina,Ecuador,1537.0
+158,Yeso,Metálico,6.24,9.4,61.86,36.649,199.65,Automoción,Ecuador,1766.0
+159,Feldespato,Energético,1.39,1.3,68.57,30.983,58.37,Generación de Energía,Indonesia,1931.0
+160,Yeso,Industrial,13.34y,5.0,61.1,225.642,71.64,Cosméticos,México,1590.0
+161,Cuarzo,Precioso,14.48,,97.5,328.971,498.55,Electrónica,Australia,1659.0
+162,Azufre,Metálico,18.6,7.0,,435.655,568.03,Cerámica,Ecuador,1940.0
+163,Yeso,Precioso,5.71,5.2,92.7,319.206,41.51,Cosméticos,China,1888.0
+164,Diamante,No Metálico,19.04,2.6,89.27,233.68,130.47,Industria Química,Indonesia,1617.0
+165,Carbón,No Metálico,10.96,1.7,,412.299,,Joyería,Colombia,
+166,Feldespato,No Metálico,6.22,5.5,66.63,384.804,963.38,Joyería,Bolivia,1682.0
+167,Yeso,Energético,9.91y,5.5,91.83,,53.22,Electrónica,Rusia,1856.0
+168,Granito,No Metálico,11.95x,5.7,86.14,232.85,82.15,Generación de Energía,Ecuador,1807.0
+169,Diamante,No Metálico,13.86,5.8,64.66,372.559,817.62,Joyería,Kazajistán,1945.0
+170,Diamante,Precioso,7.43,8.0,64.72,220.6,227.47,Automoción,Chile,1991.0
+171,Manganeso,Precioso,13.3,1.6,62.46,175.373,109.43,Construcción,Perú,1671.0
+172,Calcita,No Metálico,2.34,5.6,55.5,301.721,,Automoción,Australia,1798.0
+173,Esmeralda,Energético,9.52,8.6,,367.624,159.53,Generación de Energía,Kazajistán,1819.0
+174,Azufre,Precioso,3.3,,54.71,138.316,304.42,Electrónica,Colombia,1990.0
+175,Feldespato,No Metálico,9.55,9.0,,39.998,836.19,Joyería,Australia,1705.0
+176,Mercurio,No Metálico,12.73,3.8,71.84,66.214,,Electrónica,Sudáfrica,1758.0
+177,Sal,Metálico,9.81,5.7,57.26,1.468,41.77,Aleaciones,Australia,1522.0
+178,Zinc,Energético,11.95,7.2,76.7,492.271,153.76,Electrónica,México,1921.0
+179,Plata,Metálico,,6.3,80.32,141.993,,Electrónica,Kazajistán,1967.0
+180,Platino,Precioso,12.44,6.6,,,122.4,Cosméticos,Indonesia,1679.0
+181,Feldespato,Industrial,,7.2,71.89,,97.82,Tecnología,Bolivia,1524.0
+182,Piedra Caliza,No Metálico,6.61,7.4,96.46,,415.29,Cosméticos,Argentina,1880.0
+183,Yeso,Metálico,2.91,3.0,70.62,68.634,947.32,Construcción,Sudáfrica,1793.0
+184,Bauxita,Metálico,6.25,9.1,91.07,126.898,,Industria Química,Chile,1770.0
+185,Yeso,Precioso,14.57,8.5,75.28,34.36,967.54,Vidrio,Argentina,1540.0
+186,Platino,Energético,11.19,4.1,,135.082,,Generación de Energía,Estados Unidos,1850.0
+187,Barita,No Metálico,11.82,1.9,56.25,,634.9,Industria Química,Kazajistán,1537.0
+188,Bauxita,Industrial,5.28,4.0,50.35,242.121,210.4,Construcción,India,1766.0
+189,Zinc,Precioso,10.5,8.2,59.82,236.449,646.79,Joyería,Estados Unidos,1648.0
+190,Grafito,Metálico,10.13,8.7,63.53,84.37,548.78,Agricultura,India,1663.0
+191,Grafito,Energético,6.77x,6.0,59.77,104.835,579.67,Cosméticos,Chile,1774.0
+192,Bauxita,Precioso,11.26,5.8,56.93,66.797,,Industria Química,China,1713.0
+193,Uranio,Energético,13.23,8.5,55.76,,13.85,Aleaciones,China,1787.0
+194,Diamante,Energético,6.62,3.3,70.44,22.763,701.04,Cosméticos,Argentina,1845.0
+195,Manganeso,No Metálico,1.92,,,,,Generación de Energía,Ecuador,1771.0
+196,Caolín,Industrial,,4.1,81.41,449.985,896.48,Agricultura,Indonesia,1671.0
+197,Sal,Industrial,17.99,2.9,83.63,345.055,16.27,Cerámica,Ecuador,1773.0
+198,Plata,Industrial,6.44x,9.8,,342.476,432.75,Construcción,Australia,1858.0
+199,Fosfato,Metálico,15.13,6.7,,411.707,750.89,Agricultura,China,1718.0
+200,Caolín,Precioso,13.41,3.6,,305.157,,Medicina,Estados Unidos,1731.0
+201,Caolín,No Metálico,9.96,8.1,86.88%,320.652,,Cosméticos,Argentina,1704.0
+202,Platino,Industrial,4.46,2.3,52.88,72.467,392.33,Vidrio,Australia,1768.0
+203,Níquel,Precioso,,,81.84,337.847,557.49,Joyería,China,1661.0
+204,Diamante,Industrial,6.77,8.1,83.88,,,Electrónica,Sudáfrica,1829.0
+205,Plata,Precioso,14.08,2.7,97.5,342.855,,Cerámica,India,1859.0
+206,Piedra Caliza,Metálico,18.45x,9.3,61.72,425.252,502.19,Cerámica,Brasil,1630.0
+207,Zinc,Energético,8.53,4.4,79.01,225.569,,Vidrio,Bolivia,1922.0
+208,Diamante,No Metálico,12.09,,84.03,265.347,621.42,Medicina,Ecuador,
+209,Caolín,No Metálico,2.89,1.8,79.81,267.26,37.45,Cerámica,China,1840.0
+210,Barita,Precioso,3.73,1.0,87.81,138.053,,Tecnología,Estados Unidos,1667.0
+211,Hierro,No Metálico,,1.0,,87.584,596.93,Aleaciones,Sudáfrica,1972.0
+212,Granito,Industrial,18.32,4.1,,304.73,14.07,Construcción,Indonesia,1644.0
+213,Carbón,Metálico,,4.8,93.1,461.926,224.73,Aleaciones,Australia,1739.0
+214,Yeso,Energético,1.56y,8.0,50.72,489.046,824.6,Automoción,Bolivia,1863.0
+215,Mercurio,Metálico,4.75,2.9,,,,Vidrio,Ecuador,1919.0
+216,Grafito,No Metálico,14.17,3.2,,424.954,128.72,Cosméticos,Argentina,1912.0
+217,Hierro,Precioso,2.19,,63.51,331.146,471.15,Joyería,Rusia,1725.0
+218,Caolín,Metálico,8.77,3.7,,420.353,475.52,Electrónica,Colombia,1884.0
+219,Uranio,Industrial,2.78,1.5,73.28,276.049,895.81,Construcción,Brasil,1643.0
+220,Sal,Metálico,11.05,9.5,60.36,428.89,187.63,Joyería,Sudáfrica,1911.0
+221,Calcita,Metálico,19.73,2.0,97.34,451.632,549.2,Cosméticos,Estados Unidos,1646.0
+222,Manganeso,Metálico,18.21,5.1,80.51,199.218,711.55,Joyería,Estados Unidos,1963.0
+223,Diamante,Metálico,,2.1,53.32,244.661,19.36,Joyería,Canadá,
+224,Níquel,Metálico,2.17,2.7,58.99,,60.29,Industria Química,Argentina,1748.0
+225,Carbón,Metálico,19.5,5.2,77.73,90.868,,Generación de Energía,Indonesia,1584.0
+226,Manganeso,Metálico,2.6,7.9,68.66,412.249,,Construcción,Chile,1629.0
+227,Uranio,Energético,15.06,2.9,53.05,454.691,141.01,Automoción,México,1839.0
+228,Oro,Energético,17.99,3.7,56.11,269.135,644.22,Generación de Energía,Estados Unidos,1852.0
+229,Feldespato,Precioso,10.4,5.1,66.98,329.399,,Cosméticos,Colombia,1790.0
+230,Sal,Energético,8.34,5.1,57.92,271.703,,Aleaciones,Brasil,1664.0
+231,Feldespato,No Metálico,14.7,2.9,94.61,107.468,665.74,Joyería,Sudáfrica,1730.0
+232,Bauxita,Metálico,11.12,7.4,56.75,22.886,560.43,Medicina,Perú,1545.0
+233,Diamante,Industrial,15.17,1.0,,37.598,,Joyería,Rusia,1884.0
+234,Carbón,Precioso,10.11,6.5,84.96,396.387,258.71,Cosméticos,Brasil,1861.0
+235,Fosfato,Industrial,6.26,3.8,50.37,413.701,512.27,Agricultura,Perú,2023.0
+236,Barita,No Metálico,,8.5,74.32%,419.9,319.86,Industria Química,Kazajistán,1610.0
+237,Feldespato,Energético,,3.3,,424.853,505.29,Automoción,Colombia,
+238,Hierro,Precioso,,5.8,51.06,,358.51,Vidrio,Sudáfrica,2012.0
+239,Platino,Metálico,,2.3,,409.609,,Tecnología,Canadá,1782.0
+240,Grafito,Metálico,5.79,6.2,76.04,443.53,,Electrónica,México,2011.0
+241,Carbón,Energético,16.82,6.8,92.53,145.509,242.21,Joyería,Kazajistán,1942.0
+242,Sal,Metálico,13.52,9.2,79.62,167.358,607.39,Cosméticos,China,1949.0
+243,Diamante,Energético,2.41x,4.2,54.97,155.926,,Generación de Energía,Indonesia,1913.0
+244,Cuarzo,Precioso,15.98,4.1,65.7,257.305,745.93,Joyería,Perú,
+245,Níquel,Energético,11.17,8.4,71.82,316.228,,Automoción,Indonesia,1932.0
+246,Caolín,No Metálico,5.21,5.1,81.42,319.951,940.86,Medicina,Chile,1922.0
+247,Cobre,Precioso,8.35,3.7,91.75,176.316,351.88,Vidrio,Canadá,1920.0
+248,Cobre,No Metálico,5.07,7.0,73.3,442.407,407.2,Vidrio,Kazajistán,1695.0
+249,Cuarzo,Precioso,,6.5,,92.632,370.18,Industria Química,Brasil,1607.0
+250,Azufre,Precioso,2.37,1.6,90.22,238.739,755.8,Generación de Energía,Colombia,1657.0
+251,Diamante,Energético,4.84y,2.4,96.37,96.503,916.04,Cerámica,Ecuador,1767.0
+252,Zinc,Energético,,,,223.746,650.4,Joyería,Argentina,1625.0
+253,Caolín,Metálico,7.69,7.6,69.77,56.014,575.35,Cerámica,Chile,1777.0
+254,Esmeralda,Precioso,4.51,5.0,56.11,109.46,779.79,Industria Química,Perú,1978.0
+255,Barita,Industrial,6.07y,9.4,,419.13,369.87,Medicina,Chile,1692.0
+256,Granito,Metálico,12.67x,1.3,94.6,37.172,482.65,Aleaciones,Argentina,1827.0
+257,Granito,Precioso,8.81,1.3,82.88,279.104,200.11,Tecnología,India,1965.0
+258,Oro,No Metálico,17.79,3.8,73.69,268.817,604.21,Aleaciones,Kazajistán,1967.0
+259,Platino,No Metálico,14.51,2.6,,208.012,21.81,Tecnología,Rusia,1671.0
+260,Fosfato,Metálico,6.67x,,85.44,123.447,,Industria Química,Canadá,1661.0
+261,Uranio,Industrial,10.99,5.1,68.51%,17.718,606.05,Vidrio,Brasil,2015.0
+262,Yeso,Industrial,12.86,8.9,67.39,160.214,692.2,Electrónica,Bolivia,
+263,Grafito,Industrial,13.17,4.7,,480.613,,Cosméticos,Perú,1784.0
+264,Mercurio,Metálico,4.97y,9.5,95.78,23.98,781.78,Automoción,Kazajistán,1667.0
+265,Mercurio,Energético,8.6,5.3,87.42,330.61,817.77,Tecnología,Chile,1939.0
+266,Platino,No Metálico,11.89,4.3,96.46,143.536,651.08,Vidrio,Kazajistán,1758.0
+267,Esmeralda,Energético,13.04,5.0,79.52,52.966,708.94,Automoción,Colombia,1526.0
+268,Mercurio,Precioso,18.01,2.9,,132.311,229.2,Industria Química,Chile,1929.0
+269,Piedra Caliza,Precioso,13.0,5.9,92.12,79.735,930.92,Vidrio,Estados Unidos,1849.0
+270,Manganeso,No Metálico,14.64,2.2,87.8,371.657,76.06,Medicina,Canadá,1738.0
+271,Piedra Caliza,Metálico,10.78,3.8,67.3,192.602,421.52,Vidrio,Estados Unidos,1537.0
+272,Diamante,Precioso,16.57,6.3,74.67,,692.91,Tecnología,México,1587.0
+273,Oro,No Metálico,15.38,2.9,53.31,26.58,308.22,Generación de Energía,Argentina,1820.0
+274,Granito,Energético,9.24,1.8,67.09,308.413,152.63,Tecnología,Kazajistán,1924.0
+275,Diamante,Industrial,6.1,1.8,73.13,65.846,510.93,Cosméticos,Rusia,1730.0
+276,Grafito,Energético,13.16,6.8,78.61,203.865,887.65,Generación de Energía,México,1706.0
+277,Platino,Precioso,10.54,8.1,88.98,223.417,356.78,Cosméticos,Kazajistán,1794.0
+278,Barita,No Metálico,13.01,1.9,98.52,154.457,,Vidrio,Argentina,1928.0
+279,Sal,Precioso,10.13,5.8,98.0,,,Cosméticos,Canadá,1505.0
+280,Bauxita,No Metálico,4.07,7.3,,55.657,,Aleaciones,México,1575.0
+281,Cobre,Energético,5.01,,71.89,343.616,493.82,Electrónica,Sudáfrica,1859.0
+282,Caolín,Precioso,18.43,3.9,61.31,441.066,,Joyería,Canadá,1592.0
+283,Hierro,Metálico,6.09,2.0,82.59,472.915,,Construcción,Ecuador,1685.0
+284,Azufre,Precioso,14.04,8.8,94.94,,,Vidrio,Rusia,1639.0
+285,Manganeso,Precioso,8.55,,,39.829,100.99,Automoción,China,1554.0
+286,Yeso,No Metálico,9.99,,,,64.38,Agricultura,China,1791.0
+287,Granito,Industrial,10.11,9.8,69.19%,372.531,13.75,Vidrio,Bolivia,1891.0
+288,Platino,No Metálico,6.29,8.0,59.4,111.524,904.3,Joyería,Rusia,1517.0
+289,Oro,Energético,10.95,4.4,,98.208,982.49,Vidrio,Perú,1930.0
+290,Zinc,No Metálico,,6.4,59.06,68.482,125.95,Joyería,México,1619.0
+291,Grafito,Industrial,,3.6,64.87,233.753,122.86,Joyería,Australia,1973.0
+292,Calcita,No Metálico,,1.3,93.86,213.389,423.49,Agricultura,Australia,1948.0
+293,Manganeso,No Metálico,,3.7,94.21,,,Agricultura,Brasil,1885.0
+294,Feldespato,Industrial,19.82,3.5,,361.694,,Generación de Energía,México,1509.0
+295,Fosfato,Metálico,10.53,2.6,71.45,494.709,691.76,Agricultura,Estados Unidos,1630.0
+296,Piedra Caliza,Industrial,1.7,6.1,94.35,,,Construcción,Bolivia,1729.0
+297,Carbón,No Metálico,18.28,3.5,92.18,436.738,,Agricultura,México,1620.0
+298,Hierro,No Metálico,16.54,8.5,74.86,427.164,716.96,Construcción,Bolivia,1953.0
+299,Esmeralda,Metálico,14.78,1.9,64.32,109.664,351.24,Vidrio,Bolivia,1539.0
+300,Fosfato,Industrial,5.28,2.8,51.7,,,Tecnología,Australia,1721.0
+301,Zinc,No Metálico,14.26x,5.3,97.89,490.454,884.19,Electrónica,China,1532.0
+302,Cobre,No Metálico,1.67x,10.0,54.84,319.5,,Aleaciones,Australia,1662.0
+303,Fosfato,Metálico,7.23,5.8,78.41,461.494,832.45,Industria Química,Australia,1517.0
+304,Hierro,No Metálico,8.15,2.7,70.87,451.588,720.72,Generación de Energía,Indonesia,1934.0
+305,Bauxita,Energético,7.74,8.3,,,912.89,Electrónica,India,1720.0
+306,Azufre,No Metálico,12.8y,7.3,,,939.95,Tecnología,Chile,1976.0
+307,Esmeralda,Precioso,19.66,9.7,72.81,5.992,766.96,Medicina,Ecuador,1997.0
+308,Cuarzo,Precioso,17.15,9.8,90.84,277.04,932.77,Electrónica,Canadá,1593.0
+309,Feldespato,Industrial,4.97,4.4,91.44,431.11,174.39,Automoción,Bolivia,1524.0
+310,Caolín,Metálico,8.03,4.3,64.8,344.679,505.47,Generación de Energía,Colombia,1513.0
+311,Barita,Metálico,19.82,9.1,70.61,327.923,8.51,Medicina,Ecuador,2008.0
+312,Fosfato,Industrial,7.1,3.2,89.59,65.705,80.78,Cosméticos,Bolivia,1610.0
+313,Uranio,No Metálico,,3.0,56.66,64.134,914.71,Tecnología,Bolivia,1907.0
+314,Grafito,Precioso,4.58,,71.12,188.915,703.53,Automoción,Ecuador,1865.0
+315,Calcita,Precioso,13.09,4.9,55.18,125.635,387.21,Aleaciones,Canadá,1977.0
+316,Hierro,Precioso,7.33,6.3,95.11,0.81,849.79,Industria Química,Estados Unidos,1847.0
+317,Cobre,Precioso,17.5,7.6,60.62,,646.36,Construcción,Canadá,2016.0
+318,Plata,Metálico,14.48,6.9,61.07%,399.073,484.79,Cerámica,Brasil,1945.0
+319,Cuarzo,Metálico,9.44,9.4,72.02,,501.12,Tecnología,Canadá,1888.0
+320,Oro,Energético,12.66,3.9,76.01,,687.61,Cerámica,Kazajistán,1574.0
+321,Carbón,No Metálico,8.67,3.6,85.7,33.492,511.69,Medicina,Bolivia,1838.0
+322,Calcita,Industrial,17.74,8.5,85.56,384.865,595.82,Aleaciones,Ecuador,1631.0
+323,Mercurio,Industrial,3.27,2.8,56.72,253.098,987.13,Industria Química,Canadá,1697.0
+324,Yeso,No Metálico,19.01,9.7,85.69%,,67.3,Aleaciones,Kazajistán,1683.0
+325,Calcita,Energético,12.9,8.5,92.68,411.663,31.41,Agricultura,Bolivia,1954.0
+326,Níquel,No Metálico,,8.3,95.2,432.633,664.59,Cerámica,Argentina,1834.0
+327,Fosfato,No Metálico,7.63,5.6,64.63,451.327,,Vidrio,Ecuador,1773.0
+328,Diamante,Energético,6.12,5.7,50.19%,304.903,784.97,Automoción,Brasil,
+329,Caolín,No Metálico,9.23,7.2,54.24,314.112,480.87,Joyería,Sudáfrica,2005.0
+330,Esmeralda,Energético,14.46x,7.0,61.61%,69.262,19.83,Generación de Energía,Indonesia,
+331,Hierro,No Metálico,11.62,,,482.872,440.56,Electrónica,China,1569.0
+332,Azufre,No Metálico,5.7,9.8,,82.381,251.93,Agricultura,India,1561.0
+333,Diamante,No Metálico,16.43,3.1,90.08,329.038,,Generación de Energía,Argentina,1932.0
+334,Platino,No Metálico,9.31,8.6,54.14,304.022,965.62,Vidrio,Canadá,1561.0
+335,Esmeralda,Precioso,19.08,9.2,54.16,201.061,,Construcción,Sudáfrica,1683.0
+336,Bauxita,Energético,11.03y,7.1,95.32,,635.35,Joyería,Rusia,1821.0
+337,Mercurio,Energético,3.24,2.0,86.71,137.148,,Electrónica,China,1670.0
+338,Calcita,Industrial,18.77,4.8,73.3%,178.686,482.57,Vidrio,Australia,1832.0
+339,Oro,Industrial,16.81,1.6,80.73,371.871,,Construcción,Perú,1826.0
+340,Grafito,Metálico,,6.8,62.68,35.082,574.84,Automoción,Brasil,1987.0
+341,Níquel,Industrial,,2.4,61.95%,497.558,423.81,Industria Química,Sudáfrica,1948.0
+342,Níquel,Energético,8.81,10.0,54.68,90.199,171.96,Agricultura,Bolivia,1973.0
+343,Caolín,No Metálico,15.55,7.8,,201.948,784.89,Medicina,China,1739.0
+344,Grafito,Industrial,,9.2,87.05,,889.29,Industria Química,Ecuador,1568.0
+345,Uranio,Metálico,4.33,2.0,56.77,19.929,,Medicina,Perú,1889.0
+346,Esmeralda,Precioso,16.85,9.7,72.3,295.837,376.91,Cosméticos,Ecuador,1926.0
+347,Platino,Industrial,8.28,3.6,54.6,250.938,477.09,Aleaciones,Chile,1818.0
+348,Zinc,No Metálico,11.72,9.4,54.92,407.991,403.21,Construcción,Chile,
+349,Hierro,No Metálico,6.06,3.9,50.67,416.542,550.45,Generación de Energía,Bolivia,1519.0
+350,Azufre,Precioso,15.06y,1.9,,242.592,342.15,Agricultura,India,1717.0
+351,Cobre,Energético,3.89,6.3,61.48,444.32,502.66,Automoción,Bolivia,1725.0
+352,Plata,Metálico,14.1,1.0,70.08,345.579,299.05,Automoción,Brasil,1645.0
+353,Esmeralda,Metálico,6.58,1.4,,178.117,587.77,Construcción,Estados Unidos,1510.0
+354,Sal,Metálico,13.69,,52.41,412.752,983.78,Agricultura,Rusia,1740.0
+355,Manganeso,Precioso,12.61,2.7,69.86,459.525,,Automoción,Rusia,1877.0
+356,Cobre,Industrial,9.23,8.6,60.27,286.057,177.5,Industria Química,Sudáfrica,1568.0
+357,Zinc,Precioso,7.47y,4.8,66.32,1.23,569.23,Medicina,China,1584.0
+358,Carbón,No Metálico,3.64,,82.81,322.152,7.04,Joyería,Chile,1672.0
+359,Fosfato,Metálico,7.13,7.9,55.55,374.364,91.47,Cosméticos,Perú,1998.0
+360,Esmeralda,No Metálico,,,85.29,229.256,818.91,Agricultura,Rusia,1642.0
+361,Cuarzo,Metálico,19.93,9.5,88.32,76.243,,Cerámica,Canadá,1870.0
+362,Oro,Precioso,19.09,1.4,79.12,302.368,81.11,Cosméticos,China,1795.0
+363,Hierro,Metálico,3.74,9.5,,3.993,634.6,Tecnología,China,1884.0
+364,Piedra Caliza,Industrial,9.6,1.6,55.27,69.749,490.56,Joyería,Bolivia,1728.0
+365,Zinc,Industrial,7.76,9.4,84.64,,,Aleaciones,Kazajistán,1558.0
+366,Fosfato,Metálico,6.71,2.6,86.67,27.891,877.69,Aleaciones,Ecuador,1600.0
+367,Barita,Metálico,12.75,2.6,93.75,302.167,576.84,Cosméticos,China,1675.0
+368,Grafito,Energético,2.62,8.5,64.4,35.705,233.92,Vidrio,Indonesia,2002.0
+369,Hierro,Industrial,,8.0,71.43,378.074,425.2,Agricultura,Indonesia,1658.0
+370,Yeso,Industrial,1.63,2.7,83.6,322.787,995.96,Agricultura,Argentina,1748.0
+371,Fosfato,Industrial,2.03,6.4,,457.216,459.85,Construcción,India,1658.0
+372,Zinc,No Metálico,12.05x,9.6,64.56,289.525,222.42,Automoción,Australia,1508.0
+373,Bauxita,Industrial,11.06,8.3,54.03,193.358,,Joyería,Estados Unidos,1655.0
+374,Granito,No Metálico,17.84,9.7,93.13,175.821,531.14,Joyería,Sudáfrica,1577.0
+375,Azufre,Precioso,13.78,4.1,,,274.18,Cerámica,Colombia,1694.0
+376,Mercurio,No Metálico,16.77,6.5,85.5,,,Automoción,Kazajistán,1922.0
+377,Cuarzo,No Metálico,8.87,2.1,88.74%,0.906,237.88,Medicina,Brasil,1963.0
+378,Caolín,Industrial,14.74,8.4,74.41,94.915,187.48,Cosméticos,Estados Unidos,1535.0
+379,Granito,Energético,18.63,6.0,63.22,347.998,,Generación de Energía,Australia,1655.0
+380,Grafito,Energético,10.56,2.8,50.56,123.436,22.46,Cosméticos,Bolivia,1582.0
+381,Sal,Metálico,7.36,8.8,56.48,,885.66,Cosméticos,Bolivia,1929.0
+382,Hierro,Industrial,4.09,8.2,81.16%,199.05,187.12,Automoción,Rusia,1755.0
+383,Bauxita,Precioso,,6.9,90.26,148.774,,Aleaciones,Ecuador,1775.0
+384,Níquel,Industrial,5.02,5.2,,288.44,502.48,Cerámica,México,
+385,Cuarzo,Metálico,13.66,8.4,83.51,336.338,450.25,Tecnología,Rusia,1707.0
+386,Calcita,Precioso,19.3y,10.0,54.4,,852.85,Vidrio,México,1898.0
+387,Cobre,Metálico,16.47x,,50.69,437.325,145.07,Generación de Energía,Colombia,1841.0
+388,Yeso,Energético,1.63,,78.21,200.499,,Construcción,México,1956.0
+389,Zinc,Metálico,11.19,7.0,54.29,120.699,931.25,Aleaciones,Rusia,1790.0
+390,Níquel,Metálico,9.48,1.4,57.39,56.072,297.26,Generación de Energía,India,2009.0
+391,Mercurio,Industrial,6.19,7.9,84.3,36.241,592.24,Automoción,China,1803.0
+392,Feldespato,Industrial,12.12,4.7,,421.489,214.84,Joyería,Argentina,1787.0
+393,Oro,No Metálico,11.58,9.3,,451.708,,Construcción,Bolivia,1769.0
+394,Fosfato,Precioso,8.53,8.2,62.3,,478.87,Joyería,Bolivia,1655.0
+395,Mercurio,Metálico,17.47,2.4,97.97,451.124,925.9,Medicina,Canadá,1858.0
+396,Caolín,Energético,,1.9,53.28,331.63,917.79,Cerámica,Perú,1597.0
+397,Fosfato,Industrial,,7.0,,133.277,870.05,Medicina,Bolivia,1941.0
+398,Caolín,Energético,,9.6,95.0,403.478,471.49,Construcción,India,1600.0
+399,Calcita,Industrial,,4.0,,189.137,,Electrónica,Brasil,1522.0
+400,Piedra Caliza,Precioso,9.3,5.9,94.36,231.097,669.04,Cerámica,Ecuador,1673.0
+401,Hierro,Energético,4.81,2.2,,7.571,230.63,Cerámica,Brasil,1550.0
+402,Oro,Precioso,12.99,,68.17,283.41,322.26,Vidrio,Rusia,1997.0
+403,Feldespato,Energético,7.74,2.3,86.63,493.1,,Vidrio,Estados Unidos,1690.0
+404,Barita,Industrial,,2.6,66.59%,,334.54,Automoción,Chile,1742.0
+405,Caolín,Metálico,8.55,5.7,,357.206,553.94,Electrónica,Sudáfrica,1639.0
+406,Calcita,Industrial,10.11x,,68.78,1.692,986.39,Construcción,Colombia,1945.0
+407,Uranio,Metálico,14.47,2.6,52.26,66.93,499.38,Tecnología,Estados Unidos,1976.0
+408,Grafito,Industrial,18.53,4.0,82.65,,136.44,Generación de Energía,China,1599.0
+409,Calcita,Industrial,19.27,2.3,,17.535,787.27,Automoción,Canadá,1521.0
+410,Barita,Precioso,19.27y,5.1,97.29,469.121,,Tecnología,Sudáfrica,1958.0
+411,Platino,No Metálico,6.98,3.8,56.25,62.056,705.0,Generación de Energía,México,1809.0
+412,Granito,Precioso,1.62,3.1,79.24,250.205,344.67,Automoción,Perú,1817.0
+413,Yeso,Metálico,6.97,3.0,82.15,149.428,923.14,Construcción,Perú,1767.0
+414,Esmeralda,Energético,4.64,2.4,86.01,483.041,499.37,Agricultura,Australia,1643.0
+415,Piedra Caliza,No Metálico,15.86,4.6,68.11,386.028,433.16,Vidrio,Chile,1901.0
+416,Azufre,Energético,17.82y,9.0,,337.668,,Electrónica,Canadá,2021.0
+417,Cuarzo,Industrial,17.88,9.7,86.8,,145.85,Agricultura,Canadá,
+418,Bauxita,Energético,19.03,6.3,,373.075,669.62,Vidrio,Chile,1789.0
+419,Manganeso,Energético,,5.4,93.78,474.308,751.45,Medicina,Sudáfrica,1868.0
+420,Manganeso,Industrial,12.61,5.0,53.29,328.185,,Tecnología,Chile,1956.0
+421,Plata,Energético,14.81,4.0,96.64,429.714,837.44,Agricultura,Chile,1797.0
+422,Oro,Metálico,16.6,7.7,99.23,259.432,,Generación de Energía,Kazajistán,1688.0
+423,Fosfato,Industrial,13.19x,1.8,61.5,208.2,926.44,Vidrio,Estados Unidos,1552.0
+424,Plata,Precioso,,,,342.955,566.8,Automoción,Indonesia,1948.0
+425,Zinc,Energético,10.68,7.1,80.0,258.864,27.33,Aleaciones,Bolivia,1732.0
+426,Barita,Precioso,3.64,5.4,60.46,164.912,734.65,Joyería,Indonesia,1838.0
+427,Grafito,Metálico,,3.3,57.15,7.593,584.88,Industria Química,Indonesia,1715.0
+428,Manganeso,Energético,3.95,6.0,,491.521,114.37,Cerámica,México,1731.0
+429,Cobre,Metálico,11.89,2.4,66.09,329.528,733.59,Medicina,Australia,1905.0
+430,Níquel,Precioso,12.48,9.9,91.35,162.357,61.25,Industria Química,Brasil,1624.0
+431,Calcita,Industrial,7.38x,9.2,62.04,365.541,851.21,Vidrio,Canadá,1933.0
+432,Feldespato,Energético,16.37,8.7,65.19,,,Joyería,Estados Unidos,1669.0
+433,Manganeso,Industrial,19.03,1.3,,244.69,576.19,Electrónica,Bolivia,1896.0
+434,Azufre,Industrial,18.04,6.5,,467.573,84.06,Tecnología,Kazajistán,1944.0
+435,Grafito,Metálico,18.38,1.5,58.15,,203.99,Vidrio,Colombia,1640.0
+436,Fosfato,Metálico,7.65,,81.39,228.164,412.2,Industria Química,Chile,1768.0
+437,Oro,Industrial,,6.1,97.96,,691.55,Agricultura,Brasil,1612.0
+438,Bauxita,Energético,2.96,3.6,88.6,213.797,79.05,Construcción,Estados Unidos,1895.0
+439,Esmeralda,No Metálico,5.45,6.2,,,,Joyería,Argentina,1836.0
+440,Sal,Energético,19.77,2.0,93.15%,359.271,769.15,Generación de Energía,México,
+441,Cobre,Precioso,19.74x,3.8,73.9,364.63,576.59,Generación de Energía,Argentina,1953.0
+442,Carbón,Precioso,11.42,6.0,,361.485,409.97,Cosméticos,Canadá,2010.0
+443,Níquel,Industrial,9.56,5.9,81.29,189.915,747.08,Vidrio,Argentina,1749.0
+444,Hierro,Industrial,15.23y,1.3,56.33,380.639,,Joyería,Kazajistán,1989.0
+445,Yeso,No Metálico,2.24,2.8,,302.814,469.99,Vidrio,Colombia,1897.0
+446,Feldespato,Energético,,7.1,59.77,,,Aleaciones,Colombia,1952.0
+447,Azufre,Industrial,,7.3,83.87,476.025,282.18,Aleaciones,Perú,1838.0
+448,Carbón,Metálico,8.37,3.1,,150.886,175.18,Agricultura,Bolivia,1959.0
+449,Bauxita,Energético,11.87,8.7,81.81,157.835,915.92,Generación de Energía,Brasil,1742.0
+450,Oro,Industrial,8.1,6.3,72.59,316.629,,Cerámica,Chile,1561.0
+451,Esmeralda,Industrial,4.92y,3.3,,75.699,353.52,Automoción,Perú,2012.0
+452,Cuarzo,Metálico,4.73,3.3,74.86,209.632,129.53,Construcción,Canadá,1590.0
+453,Zinc,No Metálico,4.0,4.6,63.83,494.562,493.39,Generación de Energía,Australia,1718.0
+454,Esmeralda,Industrial,15.14,7.3,83.24,384.849,197.53,Cosméticos,Brasil,2013.0
+455,Yeso,Energético,7.0y,9.2,94.47,176.525,136.48,Agricultura,India,1755.0
+456,Bauxita,No Metálico,,9.5,77.99,,,Tecnología,Sudáfrica,1768.0
+457,Bauxita,No Metálico,12.97,4.3,,274.375,573.45,Tecnología,India,1923.0
+458,Hierro,Precioso,14.71,5.7,50.66,203.058,,Aleaciones,China,1700.0
+459,Bauxita,Energético,10.92,5.5,66.4,129.662,805.16,Cosméticos,Estados Unidos,1934.0
+460,Sal,No Metálico,16.86,1.1,69.77,296.493,711.66,Generación de Energía,Canadá,1835.0
+461,Calcita,No Metálico,15.39,1.5,,353.887,25.43,Generación de Energía,Ecuador,1524.0
+462,Hierro,Industrial,4.8,4.8,52.82,333.503,666.26,Agricultura,Rusia,1928.0
+463,Platino,Precioso,6.87,4.9,,21.371,710.39,Tecnología,Australia,1611.0
+464,Azufre,Industrial,,2.8,77.01,161.989,615.95,Electrónica,Sudáfrica,1595.0
+465,Sal,Industrial,5.46,,,,,Construcción,México,1985.0
+466,Grafito,Metálico,,2.1,83.49,80.782,531.75,Cerámica,México,1749.0
+467,Zinc,Energético,7.93,4.9,57.94,121.78,355.68,Electrónica,Indonesia,1962.0
+468,Sal,Metálico,12.96,3.5,83.78,365.21,139.14,Medicina,Perú,1907.0
+469,Níquel,Energético,17.11,9.8,67.02,324.992,487.92,Medicina,China,
+470,Caolín,No Metálico,7.72,5.1,51.43,476.998,,Joyería,Estados Unidos,1846.0
+471,Calcita,Energético,9.4,5.5,61.63,440.679,805.69,Agricultura,Ecuador,1678.0
+472,Feldespato,Metálico,15.7x,5.8,,372.836,318.54,Electrónica,Australia,1655.0
+473,Feldespato,Energético,3.28,2.8,76.5,63.148,,Tecnología,Brasil,1511.0
+474,Azufre,No Metálico,5.71,2.8,,297.488,309.69,Vidrio,Brasil,1710.0
+475,Caolín,Metálico,7.89,1.7,67.3,400.297,,Cosméticos,India,1969.0
+476,Hierro,Energético,19.34,9.5,97.63,184.074,469.41,Aleaciones,Sudáfrica,2021.0
+477,Sal,Metálico,7.96,7.4,86.91,466.537,959.19,Aleaciones,Ecuador,1656.0
+478,Zinc,Industrial,9.52,8.2,71.0,300.273,405.3,Agricultura,Argentina,1604.0
+479,Oro,Energético,4.81,3.9,57.65,68.584,276.79,Cerámica,Bolivia,
+480,Fosfato,Metálico,,6.4,72.79,,,Electrónica,Brasil,1524.0
+481,Grafito,Precioso,14.19,9.5,81.62,463.965,28.21,Medicina,Bolivia,1612.0
+482,Platino,Precioso,14.37,2.9,70.77,445.097,32.12,Tecnología,México,2008.0
+483,Caolín,Industrial,9.03,6.3,77.9,71.508,,Automoción,India,1566.0
+484,Granito,Energético,18.79,7.5,,269.237,609.34,Medicina,Indonesia,2006.0
+485,Cuarzo,Precioso,11.73y,,96.02,255.96,633.83,Vidrio,Perú,1972.0
+486,Plata,Energético,11.88,8.5,51.11%,282.315,718.58,Vidrio,Kazajistán,1654.0
+487,Platino,Energético,,3.6,73.85,,,Joyería,Colombia,1663.0
+488,Yeso,Precioso,4.91,3.0,65.61,439.471,,Joyería,India,1785.0
+489,Esmeralda,No Metálico,,4.1,90.2,32.953,700.06,Aleaciones,Indonesia,1525.0
+490,Diamante,Industrial,1.61,2.1,75.97,306.324,884.81,Automoción,Perú,1782.0
+491,Grafito,Industrial,,4.3,79.49,,470.46,Tecnología,Ecuador,1657.0
+492,Mercurio,Energético,,9.2,59.39,22.333,582.29,Aleaciones,India,1533.0
+493,Níquel,No Metálico,19.94,2.2,92.18,111.382,489.41,Automoción,Colombia,1595.0
+494,Hierro,No Metálico,3.06x,6.1,93.22,380.134,318.77,Tecnología,Australia,1572.0
+495,Caolín,Industrial,4.11,,,219.087,855.54,Automoción,Brasil,1713.0
+496,Zinc,Industrial,12.16,2.8,72.05,493.999,991.38,Construcción,Chile,1712.0
+497,Caolín,No Metálico,1.14,1.3,64.66,2.774,937.93,Industria Química,Chile,1893.0
+498,Cuarzo,Energético,3.51,4.9,,152.008,922.75,Medicina,Argentina,1607.0
+499,Calcita,Precioso,18.78y,4.7,,335.425,455.63,Industria Química,Argentina,1845.0
+500,Níquel,Metálico,16.53,3.5,86.36%,231.456,776.69,Cosméticos,Estados Unidos,1846.0

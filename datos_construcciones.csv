@@ -1,0 +1,501 @@
+area_m2,costo_total_cop,tiempo_meses,materiales_cop,mano_obra_cop,personal_total,estrato,ciudad,tipo_obra,constructora
+134.9,296308877.0,18.0,90567222.0,79872326.0,56,5,,Comercial,Constructora A
+115.9,345470832.0,17.0,63976286.0,87832220.0,,4,Bogotá,Comercial,Constructora C
+139.4,180071621.0,14.0,58636022.0,78113701.0,92,,Bogotá,Vivienda,Constructora B
+165.7,278148462.0,12.0,74932511.0,85380577.0,44,5,,Industrial,Constructora C
+,217467872.0,,71596308.0,,77,6,Medellín,Comercial,Constructora C
+113.0,225643731.0,15.0,65935439.0,93199406.0,78,1,Bucaramanga,Vivienda,Constructora C
+167.4,,17.0,88927749.0,90018082.0,10,4,Barranquilla,Vivienda,Constructora C
+143.0,206800462.0,16.0,94106104.0,77743671.0,77,3,Medellín,Comercial,Constructora C
+105.9,252426081.0,,76768138.0,99888685.0,21,6,Medellín,Vivienda,Constructora A
+136.3,208452494.0,12.0,104550602.0,104063552.0,69,5,Barranquilla,Comercial,Constructora A
+106.1,263522841.0,18.0,52166218.0,65886602.0,36,,Barranquilla,Comercial,Constructora C
+106.0,247488095.0,15.0,71126811.0,78559128.0,65,4,Medellín,,Constructora A
+,238052598.0,20.0,60663554.0,78462865.0,32,2,Medellín,Industrial,Constructora B
+62.6,204621817.0,,37669268.0,75901453.0,34,4,Medellín,Comercial,Constructora C
+68.3,221161433.0m2,19.0,73346386.0,102442123.0,30,1,Barranquilla,Vivienda,Constructora B
+103.1,287769561.0,,72565050.0,87092608.0,70,4,Medellín,Industrial,Constructora B
+,275045859.0,12.0,105268995.0,86032277.0,72,5,Bogotá,Vivienda,Constructora C
+129.4,201122238.0,13.0,87616234.0,59942065.0,61,,Barranquilla,,Constructora B
+92.8,254966615.0h,13.0,54516264.0,99531270.0,97,4,Bogotá,,Constructora B
+77.6,287569356.0,,112081851.0,71411124.0,34,5,Cali,Industrial,
+,,16.0,99420674.0,90898989.0,,2,Barranquilla,Industrial,Constructora C
+113.2,,,86641954.0,94160654.0,55,6,Cali,Vivienda,Constructora C
+122.0,216868812.0,14.0,70470318.0,110409879.0,,4,Medellín,Comercial,
+77.3,278529933.0,20.0,55811215.0,70367694.0,64,,Medellín,Vivienda,Constructora C
+103.7,211837042.0,19.0,67555864.0,44707318.0,14,6,Bucaramanga,Comercial,Constructora C
+123.3,159755895.0h,15.0,,92757743.0,45,6,Medellín,Vivienda,Constructora B
+,168622878.0,14.0,112691726.0,,58,2,Cali,Industrial,Constructora C
+131.3,252404247.0,14.0,105864871.0,108584195.0,67,3,Medellín,Industrial,Constructora A
+102.0,262986125.0,16.0,65223012.0,93144891.0,48,4,Barranquilla,Comercial,Constructora C
+111.2,204784169.0,,52607651.0,82625457.0,89,6,Medellín,Comercial,Constructora A
+101.9,281929623.0,13.0,77817725.0,102106839.0,94,6,Bucaramanga,Vivienda,
+175.6x,166923997.0,9.0,39631213.0,75396807.0,70,5,Medellín,Comercial,Constructora C
+119.6,246696010.0,15.0,81463354.0,97145367.0,18,6,,Vivienda,
+88.3,189449190.0,,,97582052.0,15,2,Cali,Comercial,Constructora B
+144.7,,13.0,65679270.0,105903149.0,44,6,,Comercial,Constructora B
+83.4,252369934.0,19.0,43105939.0,131394901.0,,3,,Comercial,Constructora B
+126.3,206979332.0,10.0,85272002.0,,31,4,Cali,Industrial,Constructora B
+,230772223.0,10.0,64345983.0,82365546.0,50,4,Bucaramanga,Industrial,Constructora C
+80.2,300314640.0,15.0,51601663.0,89616385.0,,6,Barranquilla,Vivienda,Constructora A
+125.9,221155407.0,,17554756.0,,51,1,Bucaramanga,Comercial,Constructora C
+142.2,291784606.0,,74449702.0,79579303.0,96,1,Bogotá,,Constructora C
+125.1,193514657.0,,110445032.0,83860763.0,90,2,Bucaramanga,Comercial,Constructora C
+116.5,276490209.0,17.0,108225184.0,82138674.0,,1,Medellín,Industrial,Constructora C
+,322078431.0,14.0m2,65858075.0,,96,2,Barranquilla,Industrial,Constructora A
+75.6,126417775.0,13.0,,77663701.0,89,5,Medellín,Comercial,Constructora C
+98.4,210155237.0,17.0,84375485.0,,76,2,Bogotá,,Constructora B
+106.2,278853606.0,16.0,55032291.0,90003106.0,39,1,Barranquilla,Industrial,Constructora C
+151.7,239847731.0,9.0,81035838.0,89860495.0,66,6,Cali,Industrial,
+130.3,268557294.0,18.0,90321606.0,85081579.0,95,5,Bucaramanga,Vivienda,
+67.1,219800741.0,18.0,99538664.0,92327860.0,82,1,Medellín,Industrial,Constructora A
+129.7,254329489.0,12.0,72996918.0,102376474.0,38,2,Bogotá,Comercial,Constructora B
+108.4,242216138.0,15.0,70926525.0,76993047.0,46,3,Cali,Vivienda,Constructora C
+99.7,308389103.0,15.0,57440348.0,80128253.0,96,4,Bucaramanga,Comercial,Constructora C
+138.4,262721042.0,15.0,58462393.0,85444110.0,22,1,Cali,Vivienda,
+150.9,266880133.0,12.0,70470422.0,69811936.0,41,2,Bucaramanga,Comercial,Constructora B
+147.9,229406152.0,12.0,82347310.0,77711132.0,55,,Barranquilla,Industrial,Constructora A
+94.8,225619689.0,14.0,93271693.0,82856687.0,32,1,Cali,Comercial,Constructora B
+110.7,228372091.0,18.0,,,54,1,Cali,Vivienda,Constructora C
+,269722607.0,16.0,104853771.0,93938420.0,26,4,Cali,Comercial,Constructora A
+149.3,228950776.0,13.0,69577528.0,92903849.0,94,2,Barranquilla,Vivienda,Constructora A
+105.6,264488743.0,16.0,74572654.0,102763469.0,75,3,Bogotá,,Constructora B
+114.4,353770040.0,5.0,60055766.0,87939423.0,15,5,Bucaramanga,Industrial,Constructora A
+86.8,293556235.0,17.0,,95856973.0,27,2,Cali,Industrial,Constructora A
+84.1,233698823.0,9.0,92680908.0,88451674.0,,5,Barranquilla,,Constructora C
+144.4,310060696.0,13.0,89736878.0,93980435.0,42,1,Bogotá,Comercial,Constructora C
+160.7,229596231.0,11.0,69373449.0,81258620.0,,4,,Comercial,Constructora A
+117.8,148093773.0,10.0,76339814.0,53417743.0,,4,Barranquilla,Vivienda,Constructora A
+150.1,199595684.0,17.0,85318784.0,87985813.0,41,,Bucaramanga,Comercial,Constructora B
+130.8,156460404.0,13.0,43749083.0,,51,3,Cali,Comercial,
+,,15.0,64418946.0,103893231.0,87,4,Bogotá,Vivienda,
+130.8,250920919.0,,90885294.0,104480962.0,19,1,,Industrial,Constructora C
+166.1,333821866.0,15.0,49914212.0,108541961.0,45,3,,Comercial,Constructora A
+118.9,266346369.0,14.0m2,80871159.0,91329864.0,43,2,Cali,Comercial,Constructora A
+166.9,239044974.0,10.0x,47868364.0,92959736.0,82,4,Bogotá,Industrial,Constructora C
+41.4,291470279.0,17.0,84328600.0,80735222.0,37,,,,Constructora C
+,139443235.0,13.0,74287170.0,85258907.0,,1,Medellín,,Constructora B
+122.6,261780728.0,,42697364.0,99236567.0,87,6,Bogotá,Comercial,Constructora B
+111.0m2,,13.0,98294787.0,108058267.0,48,5,Bucaramanga,Comercial,Constructora B
+122.8,176070688.0,19.0,60308168.0,87908306.0,56,5,Barranquilla,,Constructora B
+60.4h,307187702.0,17.0,58794951.0,83247161.0,28,,Medellín,Industrial,Constructora C
+113.4x,266924820.0,13.0,79011384.0,90007919.0,24,1,Barranquilla,Vivienda,Constructora A
+130.7m2,229235604.0,13.0,97972747.0,99018101.0,37,5,Barranquilla,Industrial,Constructora B
+164.3,281639093.0,13.0,54683564.0,68342178.0,33,6,Cali,Vivienda,Constructora B
+104.5,363534643.0,20.0,76233597.0,55557286.0,81,3,Cali,Industrial,Constructora C
+95.7,259093313.0,15.0,83576330.0,,18,5,Medellín,Vivienda,Constructora C
+104.9,262411029.0,15.0,88862112.0,71689314.0,56,1,Cali,Industrial,Constructora A
+,227031955.0,17.0,78528831.0,82377897.0,42,4,Cali,Industrial,Constructora A
+129.9,207507782.0,15.0,,87783295.0,71,2,Cali,Industrial,Constructora C
+104.1,291516791.0,13.0,58448196.0,,28,6,Barranquilla,Industrial,Constructora B
+135.4m2,207195809.0,13.0,76722878.0,,76,6,Medellín,Industrial,Constructora B
+122.9,253578312.0,14.0,53557220.0,94901171.0,83,4,,Comercial,Constructora B
+149.1,226117128.0,14.0,,94507115.0,49,4,,,Constructora A
+98.9,273948991.0m2,,83731196.0,99333107.0,56,1,Barranquilla,Comercial,Constructora B
+110.2,266683105.0,14.0,93078697.0,,74,5,Bucaramanga,Industrial,Constructora B
+108.2,301876997.0x,16.0,27741351.0,105586677.0,38,3,Bogotá,Comercial,Constructora C
+76.1,224499180.0,14.0,54805386.0,88863536.0,59,6,Bogotá,Comercial,Constructora B
+128.9,,14.0,87383085.0,100057209.0,,6,Bucaramanga,Vivienda,Constructora C
+,201061814.0,8.0,116149909.0,73922142.0,10,4,,Industrial,
+,227785337.0,17.0,75415874.0,,43,5,Barranquilla,Vivienda,Constructora A
+113.0,268865025.0,15.0,60439941.0,102268345.0,57,6,Bucaramanga,Vivienda,Constructora B
+,287849431.0,,71342071.0,95646143.0,86,3,,Industrial,Constructora B
+107.4,203891734.0,5.0,102497528.0,76469227.0,57,4,Bogotá,Vivienda,Constructora C
+109.7,293480296.0,20.0,62080716.0,,58,3,Bogotá,Industrial,Constructora C
+95.9,317781893.0,14.0,59016160.0,106881522.0,73,,Bucaramanga,Vivienda,Constructora C
+115.2,270671745.0,17.0,,72158822.0,70,6,,Industrial,Constructora B
+132.1,343839791.0,11.0,55933428.0,114640094.0,38,2,Cali,Industrial,Constructora B
+176.6,,16.0,77453406.0,76490689.0,48,6,Bucaramanga,Industrial,Constructora A
+125.2,187767265.0,11.0,,99575879.0,97,5,Medellín,Comercial,Constructora B
+127.7,161063988.0m2,12.0,81461585.0,85070723.0,35,6,Cali,Vivienda,Constructora A
+117.8,324802216.0,20.0h,69952930.0,99047811.0,26,6,Bucaramanga,Comercial,Constructora C
+62.4,282718283.0,13.0,69163775.0,81838290.0,80,1,Medellín,Vivienda,Constructora C
+,247220766.0,15.0,43736184.0,87558106.0,22,6,Medellín,Vivienda,
+121.8,263998431.0,17.0,92662196.0,,78,6,Barranquilla,Vivienda,Constructora A
+193.9,193725548.0,15.0,,74967188.0,35,,Medellín,Comercial,Constructora B
+114.2,372287599.0,14.0,71390402.0,101112365.0,58,2,Cali,Vivienda,Constructora C
+129.0,256461059.0,15.0,138862151.0,,76,3,Cali,Comercial,Constructora B
+119.0,255469740.0,21.0,80975058.0,86571001.0,16,3,,Industrial,Constructora B
+84.9,,14.0,59964179.0,75084759.0,,,Bucaramanga,Vivienda,Constructora C
+154.3,274050462.0,15.0,66472848.0,,58,1,Medellín,Vivienda,Constructora A
+142.6,261194201.0,17.0,97968914.0,87134584.0,62,3,Bogotá,Industrial,Constructora B
+143.7,,17.0,77265408.0,126189231.0,74,5,Barranquilla,Industrial,Constructora C
+92.7,273573418.0,18.0,46234440.0,101769064.0,71,5,Bogotá,,Constructora B
+162.1,344101225.0,16.0,93384579.0,89711094.0,26,6,,,Constructora B
+77.9,,11.0,61637118.0,86056638.0,,4,Medellín,Comercial,Constructora B
+137.6,329659331.0,19.0,112465956.0,90336988.0,34,,Bogotá,Comercial,Constructora B
+185.7,224439216.0,11.0,96600961.0,98206787.0,12,,Barranquilla,Vivienda,Constructora B
+90.3,,15.0,66053562.0,72287808.0,88,,Bogotá,Comercial,Constructora A
+103.0,243710654.0,12.0,100620327.0,106714825.0,38,5,Bucaramanga,Comercial,Constructora A
+123.0h,252786246.0,,76357110.0,100730720.0,41,2,Cali,Vivienda,Constructora C
+104.9,304709576.0,,92055474.0,100772786.0,,4,Bucaramanga,,Constructora A
+73.5,165376769.0,15.0,84694656.0,96577136.0,25,6,Cali,Vivienda,Constructora A
+,326477516.0,15.0,58072867.0,90294250.0,34,4,Medellín,Comercial,Constructora A
+88.1,242099605.0,19.0,,100092919.0,63,5,Barranquilla,Vivienda,Constructora B
+134.2,228655947.0,,,98877212.0,37,5,Bogotá,Vivienda,Constructora B
+,199394781.0,13.0,68304493.0,84689389.0,82,2,Barranquilla,Comercial,
+166.5,167257166.0,,66927031.0,81395973.0,,,Bogotá,,Constructora C
+96.5,291158529.0,18.0,55897548.0,,74,,Bucaramanga,Vivienda,Constructora C
+110.3,253665898.0,10.0kg,83471981.0,113235302.0,,,Bucaramanga,Comercial,Constructora B
+144.4,185501955.0,16.0,,71413394.0,89,4,Bogotá,Comercial,Constructora A
+83.1,185246061.0,16.0,53649342.0,67987121.0,50,5,Barranquilla,Comercial,Constructora A
+126.8,233210765.0,13.0,75484389.0,92471413.0,60,1,Bogotá,Comercial,Constructora B
+159.2,333451076.0,18.0,103244411.0,90763316.0,80,6,Medellín,Comercial,Constructora C
+71.8,237020432.0,14.0,73407172.0,,,4,Bucaramanga,Comercial,Constructora C
+125.5,174842852.0,14.0,84047436.0,93659298.0,38,1,,Industrial,Constructora C
+127.8x,237712847.0,13.0,53752129.0,86651966.0,92,1,Bucaramanga,,Constructora B
+143.5,236363822.0,14.0,83566142.0,112347952.0,28,5,Bucaramanga,Comercial,Constructora C
+82.9,115155668.0,11.0,71257115.0,65986440.0,75,1,Cali,Vivienda,Constructora C
+80.4,247285257.0h,10.0,94714600.0,77572545.0,,2,Medellín,Industrial,Constructora B
+135.7,238453273.0,19.0,98747721.0,88451179.0,54,2,Medellín,Comercial,Constructora A
+128.9,284810318.0x,11.0,126791273.0,65352168.0,24,3,Cali,Vivienda,Constructora B
+,342447805.0,11.0,86592663.0,87362184.0,12,,Barranquilla,Comercial,
+130.4,306328251.0,8.0,81515926.0,114922052.0,20,6,Medellín,Comercial,Constructora B
+99.6,236555565.0,12.0,,90313297.0,,3,Bogotá,,Constructora B
+127.0,194673705.0,10.0,67936674.0,93460514.0,55,,Cali,Comercial,Constructora A
+128.8,378667990.0,19.0,81769677.0,71097529.0,,3,Medellín,Comercial,Constructora C
+98.6,252960922.0,17.0,69091972.0,80754579.0,,5,Barranquilla,Comercial,Constructora B
+176.0,250696465.0,12.0,78369220.0,84372054.0,27,5,Medellín,,Constructora A
+134.2,248793746.0,21.0kg,,85234274.0,60,1,Bucaramanga,Industrial,
+84.3,259904238.0,17.0,54869149.0,109224657.0,57,4,Bogotá,Industrial,Constructora C
+139.7,,13.0,97797571.0,98365366.0,,1,Cali,Comercial,
+90.8,,7.0m2,101342301.0,73328131.0,17,,Bucaramanga,Comercial,Constructora B
+,222657053.0h,21.0,,93697572.0,31,2,Barranquilla,Industrial,
+154.8,248362336.0,10.0,32562902.0,97473326.0,15,,Bucaramanga,,Constructora C
+95.4,222828761.0,9.0,62843560.0,107102236.0,85,2,,,Constructora C
+148.9,214357711.0,17.0,,113708110.0,66,1,Barranquilla,Comercial,Constructora C
+132.4,255321511.0m2,,74542639.0,74773587.0,45,6,Bucaramanga,Vivienda,Constructora C
+144.7,237251139.0,18.0,55013955.0,77837137.0,88,,,Vivienda,Constructora C
+,325199649.0,16.0,64904502.0,71136332.0,66,2,Medellín,Vivienda,Constructora C
+112.6,117451510.0h,16.0,91812401.0,86489702.0,58,5,Bucaramanga,,Constructora A
+97.4,304575343.0,17.0,85934671.0,96995376.0,54,6,Cali,Comercial,Constructora C
+93.3,312304260.0,16.0,70221358.0,104810018.0,91,6,,Vivienda,Constructora B
+95.5,146330488.0,,67663512.0,88860735.0,75,2,Medellín,Industrial,Constructora B
+,232865620.0,14.0,67164837.0,85202287.0,86,5,Bucaramanga,Industrial,Constructora B
+130.2,231427957.0,,56551796.0,92276370.0,,3,Cali,Vivienda,
+128.3,179624415.0,12.0,107307514.0,77472856.0,88,5,Bucaramanga,Industrial,Constructora B
+144.8,211109166.0,13.0,,121343081.0,29,6,Barranquilla,Comercial,Constructora A
+120.4,194471208.0,9.0,99343170.0,65885085.0,73,5,Medellín,Vivienda,Constructora C
+163.6,337613522.0,14.0,105426321.0,92771109.0,76,1,Bucaramanga,Vivienda,Constructora B
+,296783920.0,,94966218.0,120354093.0,92,3,Medellín,Comercial,Constructora A
+201.6,313577755.0,11.0,66367594.0,90101998.0,12,,Cali,Industrial,Constructora A
+138.8,286083603.0,15.0,83074602.0,87149414.0,63,1,Bogotá,Comercial,Constructora B
+94.3,193547411.0,18.0kg,74516088.0,84638319.0,87,4,Bucaramanga,Comercial,Constructora A
+87.9,223773987.0,,56925963.0,87294125.0,73,2,Bucaramanga,Industrial,Constructora B
+134.5,274468728.0,9.0,81487186.0,110592727.0,49,4,Medellín,Comercial,Constructora A
+113.3,188893610.0,,,56822071.0,68,5,Cali,Industrial,
+141.4,285649922.0,17.0,,113001506.0,,4,Barranquilla,Industrial,Constructora C
+,,11.0,65707654.0,68640643.0,,6,Cali,Comercial,Constructora C
+117.8,231258960.0,13.0,79023193.0,86000215.0,,1,Bucaramanga,Industrial,Constructora C
+,285547998.0,16.0,80665757.0,83561334.0,69,1,Barranquilla,Comercial,Constructora C
+74.6,272213166.0,11.0,69821901.0,98828299.0,84,4,Cali,Industrial,Constructora B
+106.6,,14.0,86733876.0,66028135.0,39,1,Bogotá,,Constructora C
+145.7m2,307966490.0,10.0,65501927.0,,11,6,Medellín,Industrial,Constructora C
+126.4,195946834.0,12.0,92425946.0,120364644.0,,1,,,Constructora C
+82.6,280796780.0,15.0,48080406.0,69552390.0,58,4,Cali,Comercial,Constructora C
+125.2,279655063.0,9.0,77527592.0,92845593.0,18,3,Bogotá,Industrial,Constructora A
+131.6,234522678.0,15.0,113778580.0,80070267.0,40,3,Bucaramanga,Vivienda,Constructora C
+93.5,266306651.0,14.0,54993374.0,96388308.0,70,2,Medellín,Vivienda,Constructora C
+124.6,187444321.0,16.0,61445101.0,90287217.0,88,1,Cali,Industrial,Constructora B
+121.7,296201351.0,15.0,85278157.0,80377696.0,57,4,Barranquilla,Industrial,Constructora A
+85.7,240754893.0,18.0,78591636.0,97318084.0,34,1,Cali,,Constructora B
+130.7,223863849.0,14.0,82012602.0,117065222.0,45,5,Medellín,Comercial,Constructora C
+136.8,,13.0,,87136443.0,17,6,Cali,Vivienda,Constructora B
+152.5,214782815.0,14.0,87694429.0,100796369.0,82,1,Bogotá,,
+151.6,179576935.0,16.0,97193997.0,70600906.0,67,,Cali,Industrial,Constructora C
+78.7,172168541.0,14.0,83196373.0,75653454.0,54,3,Cali,Industrial,Constructora A
+91.9h,280300498.0,14.0,70174847.0,97086094.0,71,,Barranquilla,Vivienda,Constructora A
+135.5,185978532.0,12.0,88451474.0,112261740.0,48,4,Bogotá,Comercial,Constructora B
+135.4,337739709.0,12.0,112997639.0,95334200.0,67,1,Bogotá,Vivienda,Constructora C
+135.5,145903530.0,10.0,72347325.0,85304130.0,90,3,Cali,,Constructora B
+235.6,334822818.0,19.0,55509414.0,89989371.0,92,2,Barranquilla,Comercial,Constructora B
+137.1,260550873.0,10.0,97141613.0,71243884.0,73,6,Cali,Vivienda,Constructora B
+154.1m2,245164344.0,12.0,,99067730.0,53,3,,Vivienda,Constructora C
+148.6,222754046.0,,31546609.0,103234996.0,,3,,Industrial,Constructora C
+139.5,269956806.0,17.0,91948434.0,83218645.0,68,3,Medellín,Comercial,Constructora A
+110.5kg,248118265.0,13.0,64293436.0,82949368.0,,1,Barranquilla,Industrial,Constructora C
+142.8,305165094.0,18.0,73189334.0,93988173.0,18,1,Bucaramanga,,Constructora B
+96.8,255711382.0,12.0,81639607.0,83449204.0,15,2,Medellín,Comercial,Constructora B
+112.9,257515088.0,15.0,78809994.0,89008011.0,38,5,Bucaramanga,Comercial,Constructora A
+105.4,231819389.0,11.0,,121495827.0,67,,Bogotá,Vivienda,Constructora C
+122.5,247152719.0,,,86294614.0,26,5,Medellín,Industrial,Constructora B
+189.4,265390088.0,10.0,85262116.0,84624898.0,,6,Medellín,Comercial,Constructora A
+64.0,164491580.0,15.0,,80286873.0,96,6,Barranquilla,,Constructora A
+,182590729.0,16.0,89776210.0,101162880.0,12,,Bucaramanga,Industrial,Constructora B
+71.6,287163205.0,,87307350.0,87281637.0,30,6,Medellín,,Constructora B
+105.8,258543272.0,13.0,56291226.0,80259404.0,73,5,Medellín,Vivienda,Constructora C
+152.7h,,14.0,96719642.0,109819560.0,99,5,Barranquilla,Industrial,Constructora A
+121.9,250921697.0,14.0,64280731.0,111294045.0,45,3,Barranquilla,Comercial,Constructora B
+87.7,267379085.0,14.0,91161156.0,80993647.0,95,,Bucaramanga,Vivienda,Constructora A
+98.5,223012016.0,17.0x,82345746.0,62001901.0,71,1,Bogotá,Industrial,Constructora C
+140.4,211084764.0,21.0,,105112705.0,51,1,Bogotá,Comercial,Constructora B
+,259792263.0,12.0,70530680.0,79730553.0,85,3,Cali,Industrial,Constructora C
+126.5,201081361.0,10.0,,101859384.0,51,3,Medellín,Comercial,
+121.4,270412638.0,14.0,74611608.0,60448443.0,70,3,Bucaramanga,Comercial,Constructora C
+100.5,164870820.0,22.0,68936404.0,103388960.0,22,1,Medellín,Industrial,Constructora C
+184.3,,12.0,90998838.0,71832421.0,20,5,,Industrial,Constructora A
+,273629874.0,19.0,42673788.0,100961462.0,63,3,Bucaramanga,Comercial,Constructora C
+59.2,262801487.0,19.0,53926352.0,90214096.0,25,2,,Vivienda,Constructora A
+125.6,,12.0,53643942.0,75690909.0,,3,Medellín,Industrial,Constructora B
+100.1,333273722.0,16.0,94006152.0,83894455.0,68,4,Barranquilla,Comercial,Constructora A
+145.6,300718503.0,19.0,109212267.0,100294777.0,66,3,Medellín,Comercial,Constructora A
+96.2,157956288.0,13.0,72911016.0,91588417.0,49,,Bucaramanga,Vivienda,Constructora B
+116.6,186021152.0,13.0,71623566.0,98766195.0,68,6,Cali,Vivienda,
+,218759071.0,12.0,76401043.0,119646609.0,11,3,Bogotá,Vivienda,
+146.0x,251304553.0,11.0,98237566.0,66536376.0,85,6,,Industrial,
+84.0,275882951.0,12.0,56452937.0,114258189.0,19,4,Cali,,Constructora A
+110.0,213712809.0,10.0,79767380.0,91565339.0,,2,Barranquilla,Comercial,Constructora C
+,259338338.0,14.0,94503953.0,76518239.0,20,6,Bucaramanga,Comercial,Constructora C
+100.4,212230853.0,12.0,85021883.0,70045296.0,,5,,Vivienda,Constructora B
+173.0,219424110.0,15.0,78791632.0,87163194.0,89,3,,Comercial,Constructora C
+132.1kg,,9.0,,103824752.0,90,4,Medellín,Industrial,Constructora C
+82.2,203838338.0,15.0,,88086763.0,99,4,Cali,Vivienda,Constructora A
+147.5,182415770.0,17.0h,88557506.0,112667324.0,11,6,Medellín,,Constructora B
+183.7,201206337.0,8.0,61918486.0,68232365.0,59,2,Medellín,,Constructora B
+,,15.0,38387342.0,,21,1,Cali,,Constructora A
+74.4,202530056.0,18.0,85224052.0,71214098.0,99,3,Bogotá,Industrial,Constructora C
+105.5,381619103.0,10.0,102473171.0,95454478.0,32,4,Cali,Comercial,
+158.0,274665895.0,19.0,72251030.0,103303311.0,27,2,,Industrial,Constructora C
+,259241806.0,15.0,94057491.0,83688573.0,71,5,Bucaramanga,Comercial,Constructora B
+133.3,,12.0,107245565.0,50936792.0,71,4,,Industrial,Constructora B
+143.2,,14.0,101298289.0,92984222.0,47,2,Cali,Vivienda,
+92.2,221218109.0,16.0,107799291.0,,76,1,Bucaramanga,Vivienda,Constructora B
+118.2,256100491.0,14.0,89842550.0,96064421.0,47,1,Barranquilla,Industrial,Constructora C
+22.8,378004227.0,16.0,76508673.0,108536733.0,76,4,Medellín,Industrial,Constructora C
+89.3,245197005.0,11.0m2,42960684.0,73934195.0,70,4,Medellín,Comercial,Constructora C
+112.4x,307463666.0,15.0,70078750.0,100203242.0,10,6,Bogotá,,Constructora C
+82.6,214841179.0,,,107887613.0,54,3,Bucaramanga,Industrial,Constructora A
+169.0,248250575.0,14.0,118418854.0,63321186.0,37,2,Bogotá,Comercial,
+77.1,338540032.0,11.0,71482284.0,94794777.0,30,4,Medellín,Comercial,Constructora B
+106.8,218651647.0,12.0,77464096.0,82437303.0,,,Medellín,Comercial,Constructora B
+123.9,340622428.0,18.0,86029708.0,88777160.0,36,6,Bucaramanga,Industrial,Constructora A
+163.2,,17.0,75872049.0,95215147.0,16,3,Barranquilla,Comercial,Constructora C
+76.9,221876661.0,16.0,108901021.0,82691572.0,31,4,Barranquilla,Vivienda,Constructora B
+154.9,281620387.0,11.0,62547013.0,,83,1,Bucaramanga,Vivienda,Constructora C
+120.3,298627722.0,13.0,78892149.0,90512286.0,62,2,,,Constructora C
+90.6,281090498.0,18.0,60150588.0,,88,2,Bogotá,Industrial,Constructora A
+133.9,171488764.0,,48599550.0,73712623.0,88,1,Bucaramanga,Vivienda,Constructora A
+126.0,213643141.0,21.0,,100190599.0,13,4,Barranquilla,Industrial,Constructora C
+,237624068.0m2,15.0,74259264.0,,32,2,Bucaramanga,Industrial,Constructora B
+122.1,246278329.0,15.0,66413956.0,99994688.0,79,4,Bogotá,Vivienda,Constructora B
+108.4,281033605.0,13.0,61151580.0,96938869.0,97,6,Bogotá,Comercial,Constructora A
+123.4,258885050.0,,46873651.0,64112899.0,93,4,Bogotá,Industrial,Constructora A
+139.9,183232782.0,14.0,73337889.0,79836530.0,93,3,Bogotá,Vivienda,Constructora A
+,269009893.0,16.0,44905593.0,,85,1,,Industrial,
+82.9,280529287.0,17.0,90201119.0,75282517.0,42,4,Bucaramanga,Comercial,Constructora A
+184.0,277989522.0,12.0,76648795.0,83033936.0,37,6,Medellín,Comercial,Constructora A
+61.4,304039036.0,10.0,45848970.0,96930913.0,17,5,Bucaramanga,Vivienda,Constructora A
+115.4,291696108.0,8.0,68815818.0,101750858.0,10,1,Cali,Industrial,Constructora B
+137.6,272959004.0,16.0,59956872.0,86226917.0,46,2,Bogotá,Industrial,Constructora A
+128.4,246491714.0,11.0,81383490.0,81037347.0,72,3,Cali,Industrial,Constructora A
+101.3,166951953.0,8.0,,,31,2,,Industrial,Constructora B
+113.8,271480911.0,15.0,37496551.0,116083495.0,79,6,Barranquilla,Vivienda,Constructora B
+,260384384.0,21.0,77300522.0,104682871.0,30,6,,Comercial,Constructora C
+102.3,263578942.0,14.0,71797344.0,,44,2,Bucaramanga,Vivienda,Constructora A
+,186162571.0,17.0,88426802.0,77876014.0,88,1,Medellín,Industrial,Constructora A
+130.7,,14.0,79263933.0,77543334.0,14,2,Medellín,Industrial,Constructora A
+99.2,302657643.0,14.0,59960613.0,97837712.0,69,4,Barranquilla,Comercial,Constructora A
+147.0,248022242.0kg,17.0,68618921.0,96275973.0,55,2,Bogotá,Industrial,Constructora C
+129.2,284075035.0,13.0,59079483.0,111023979.0,59,3,Cali,Vivienda,Constructora B
+,251415919.0,15.0,,,,3,Medellín,Vivienda,Constructora B
+138.9,251487807.0,,75426233.0,67453795.0,,5,Medellín,Comercial,Constructora A
+,,12.0,113023814.0,105779214.0,98,3,Bogotá,Vivienda,Constructora A
+103.2,224197764.0,17.0,73786784.0,75029091.0,65,,Bogotá,Vivienda,Constructora A
+142.4,254806039.0,13.0,60831865.0,84240431.0,68,3,Bucaramanga,Vivienda,
+138.3,226886236.0,12.0,44725712.0,93753003.0,38,1,Cali,Vivienda,Constructora C
+119.4,228275189.0,16.0,38937206.0,119935012.0,80,3,Bogotá,Industrial,Constructora B
+123.5,234541394.0,11.0,43317281.0,136648778.0,86,4,Medellín,Vivienda,Constructora A
+158.3,261106689.0,14.0,80342533.0,99100846.0,27,1,Medellín,Comercial,Constructora A
+102.3,226062569.0,14.0,85174500.0,87252051.0,11,5,Barranquilla,Comercial,Constructora A
+136.4,312787806.0,17.0,43376186.0,98017585.0,17,4,,,Constructora A
+113.9,205269635.0,,92900766.0,103314831.0,84,2,,Comercial,Constructora C
+113.5,240656418.0,14.0,65338779.0,85189986.0,63,2,Cali,Vivienda,Constructora B
+153.0,,16.0,77935860.0,116928170.0,47,,Bucaramanga,Comercial,Constructora B
+144.8,322348894.0,18.0,107244413.0,93451061.0,57,4,Medellín,Comercial,Constructora C
+,259827739.0,16.0,92936786.0,,36,4,Bucaramanga,Vivienda,Constructora A
+159.2,301592227.0,,69629387.0,99988864.0,29,4,Medellín,Vivienda,Constructora B
+120.6,175721981.0,10.0,57176155.0,96323799.0,21,1,Medellín,Industrial,Constructora B
+140.5,263352513.0,11.0,31963692.0,102584108.0,52,6,,Vivienda,Constructora C
+110.7,294481540.0,13.0,60616934.0,80741202.0,70,1,Medellín,Vivienda,Constructora A
+129.7,254114199.0,,70777395.0,81625474.0,40,2,Medellín,Industrial,Constructora B
+116.1,303274019.0,13.0,55256409.0,73497687.0,70,6,Barranquilla,Vivienda,
+122.9,224135577.0,,72374861.0,96592518.0,83,3,Bucaramanga,Vivienda,Constructora B
+137.9,320467372.0,16.0,76537038.0,101684048.0,76,2,Barranquilla,Industrial,Constructora C
+95.5,364944906.0,14.0,70502880.0,96866593.0,44,5,Barranquilla,Vivienda,Constructora A
+182.8,231858072.0,15.0,61999948.0,115117387.0,24,1,Bogotá,Vivienda,Constructora C
+89.8,227724874.0,14.0kg,78373093.0,89916060.0,25,4,Bogotá,Industrial,Constructora B
+83.6,322669224.0kg,8.0,83838813.0,100031125.0,22,1,Bogotá,Industrial,Constructora C
+154.7m2,328978607.0,11.0,53192018.0,73624487.0,44,4,Cali,Comercial,Constructora C
+143.7,223856999.0,14.0,103218648.0,84193504.0,84,6,Bogotá,Vivienda,Constructora C
+138.7x,228990659.0,10.0,73028237.0,100433066.0,68,5,Bucaramanga,Comercial,Constructora B
+138.9,235910770.0,16.0,75376992.0,,30,6,Barranquilla,Comercial,Constructora A
+119.6,182777474.0,19.0,89164288.0,85590496.0,63,5,Bucaramanga,Industrial,Constructora C
+93.1,204067403.0,18.0,79664323.0,,84,1,Bogotá,Vivienda,Constructora A
+122.3,199792962.0,13.0,94062733.0,67231894.0,39,4,Cali,Vivienda,Constructora B
+,211610122.0,18.0,80742483.0,84644562.0,57,6,Cali,Industrial,Constructora A
+149.3,248265756.0,14.0,62751253.0,103355747.0,44,5,Barranquilla,Comercial,Constructora C
+115.6,261710737.0,,82230071.0,98628075.0,95,2,Bucaramanga,Industrial,Constructora C
+95.2,327525025.0,12.0,52125476.0,97509986.0,47,2,Medellín,Vivienda,Constructora C
+110.4,200082298.0,13.0,77171194.0,90746605.0,40,6,Bucaramanga,Industrial,
+132.4,299216120.0,13.0,,90105947.0,87,4,Bogotá,Vivienda,Constructora C
+103.1,239300558.0,15.0,70837663.0,80095183.0,33,6,Medellín,Comercial,Constructora C
+95.3,247526815.0,14.0,72429250.0,100482426.0,58,1,Cali,Vivienda,Constructora B
+127.3,,14.0,37363019.0,96314594.0,41,5,Barranquilla,Comercial,Constructora B
+,193863899.0,15.0,64025502.0,97380283.0,64,1,Barranquilla,,Constructora B
+104.8,,18.0,76856898.0,82109477.0,88,2,Cali,Vivienda,Constructora A
+105.9,258322610.0,17.0,78197128.0,57699856.0,67,5,Bogotá,Vivienda,Constructora A
+127.0,274622563.0,10.0,54446497.0,106457291.0,12,6,Cali,Comercial,Constructora B
+76.6,,6.0kg,,82817438.0,89,1,Bogotá,Industrial,Constructora A
+77.8,372765007.0,17.0,57676503.0,77058364.0,78,3,,Vivienda,Constructora A
+98.4,218113001.0,10.0,94389144.0,,94,4,Cali,Comercial,Constructora C
+113.6,223450152.0,,83543887.0,84119810.0,19,,Bogotá,Comercial,Constructora C
+129.3,,10.0,62075454.0,105899046.0,92,3,Medellín,Industrial,Constructora A
+164.3,222226144.0,9.0,110506218.0,,34,,Cali,Vivienda,
+145.7,218130644.0,16.0,51127263.0,100253540.0,77,5,Barranquilla,Comercial,Constructora B
+115.2,309450827.0,16.0,93383083.0,69510664.0,70,4,,Industrial,Constructora A
+119.4,321025212.0,12.0,95011646.0,108179160.0,38,3,Bucaramanga,Comercial,Constructora C
+89.9,221462685.0,6.0,,93918758.0,28,6,Cali,Vivienda,Constructora A
+119.4,208382221.0m2,12.0,102849306.0,84460843.0,52,3,Bucaramanga,Industrial,Constructora B
+111.3,273570778.0,15.0,,92150827.0,75,2,Medellín,Comercial,Constructora C
+129.7,222388848.0,10.0,80773873.0,63356472.0,83,2,Cali,Industrial,Constructora C
+95.2,281646591.0,15.0,80206437.0,96129792.0,70,,Medellín,Vivienda,Constructora C
+135.6,260146151.0,14.0,72313825.0,74559427.0,52,,Medellín,Industrial,Constructora C
+166.0,,16.0,91216165.0,69709946.0,,1,Bogotá,Vivienda,Constructora A
+116.7,,14.0,90869774.0,67164612.0,29,3,,Comercial,
+132.1,339793884.0,11.0,40029361.0,106690326.0,57,5,Medellín,Vivienda,
+140.7,219360565.0,18.0,101086805.0,80561049.0,92,5,Cali,Comercial,Constructora A
+108.0,230614922.0,14.0,41750160.0,113005916.0,96,2,Cali,,Constructora C
+126.7,264293270.0,,95650924.0,81962978.0,,5,Barranquilla,Vivienda,Constructora B
+120.4,266722839.0,11.0,97534103.0,64389631.0,20,5,,Comercial,Constructora C
+122.9,282927214.0,13.0,53180671.0,73252133.0,,,Medellín,Industrial,Constructora A
+,350510227.0kg,,66783714.0,108537174.0,37,3,Bogotá,Comercial,Constructora A
+120.7,241152639.0,13.0,52885907.0,87661527.0,78,5,Bucaramanga,Vivienda,Constructora C
+134.9,210085138.0,19.0,70701579.0,81775691.0,72,6,Medellín,Industrial,Constructora A
+163.5,181034039.0kg,10.0,68839314.0,92400273.0,68,5,Bogotá,Industrial,Constructora A
+148.8,213453498.0,9.0,90593211.0,97526741.0,14,5,Barranquilla,Comercial,
+184.6x,,18.0,101206175.0,106760982.0,60,,Barranquilla,,Constructora A
+97.0,339727893.0,13.0,102913676.0,111727488.0,30,3,Medellín,,Constructora B
+146.2,224119435.0,12.0,63756639.0,84603470.0,21,,Bucaramanga,Industrial,Constructora C
+125.5,261189398.0,17.0,70815563.0,70109285.0,59,1,Barranquilla,Vivienda,Constructora B
+185.7,249178855.0,,41331236.0,83798023.0,13,,Barranquilla,Comercial,Constructora A
+95.8,309419664.0,19.0,58882599.0,93904208.0,51,3,Bucaramanga,Industrial,Constructora A
+94.8,376346621.0,16.0h,94297033.0,75543616.0,93,6,Bogotá,Vivienda,Constructora C
+102.0,223456561.0,13.0m2,107311656.0,75642736.0,47,3,Barranquilla,Vivienda,Constructora A
+56.3,,20.0,50313023.0,95156818.0,34,4,Cali,Vivienda,Constructora C
+104.2,302208044.0,,63150715.0,89270215.0,23,4,Barranquilla,Vivienda,Constructora C
+97.2,284094574.0,,74471885.0,90491955.0,84,4,Bogotá,Vivienda,Constructora C
+124.5,342335366.0,15.0,80603223.0,78622570.0,41,,Bogotá,Industrial,Constructora C
+130.3,279196409.0,18.0kg,58807930.0,86543989.0,20,5,Medellín,Vivienda,Constructora C
+176.3,232035395.0,19.0,83481221.0,76136503.0,70,3,Cali,Industrial,Constructora B
+148.5,,14.0,65523213.0,103352976.0,27,5,Bogotá,Vivienda,Constructora C
+102.7,305435179.0,12.0,74710955.0,105528740.0,36,5,Bucaramanga,Comercial,Constructora B
+93.0,291024109.0,,85925685.0,62307182.0,64,6,Cali,Comercial,Constructora A
+134.8,275363702.0,12.0,75128445.0,76057337.0,63,4,Cali,Vivienda,Constructora C
+80.4,303333734.0,20.0,66272282.0,,,2,Bucaramanga,Comercial,Constructora A
+174.9,,14.0,72807804.0,80249641.0,96,6,Barranquilla,Industrial,Constructora C
+155.4,319107950.0,13.0,73232741.0,88748430.0,84,1,Bucaramanga,Vivienda,Constructora B
+105.9,282435494.0,15.0,67599779.0,68255322.0,30,2,Bucaramanga,Industrial,Constructora B
+68.6,241644096.0,10.0,69824079.0,76172103.0,,5,,Vivienda,
+160.6,257335684.0,11.0,106972943.0,,14,2,Barranquilla,Comercial,Constructora A
+116.6,310325448.0,18.0,86218389.0,93109010.0,96,4,Barranquilla,Industrial,Constructora C
+157.1,209153216.0m2,12.0,,91040165.0,50,1,Barranquilla,Comercial,Constructora A
+72.2,268433665.0,11.0,,79173937.0,68,4,Barranquilla,Comercial,Constructora B
+102.0,,16.0,68323610.0,92652313.0,,1,Bucaramanga,Vivienda,Constructora A
+120.2,251437241.0,18.0,98462493.0,,63,6,Medellín,Industrial,Constructora B
+121.4,313922593.0,16.0,82392844.0,85925173.0,83,5,Medellín,Comercial,Constructora B
+106.5,259554953.0,17.0,72853957.0,115101781.0,31,1,Bogotá,Vivienda,Constructora B
+138.7,252321827.0,12.0,83954339.0,110106916.0,92,1,Medellín,,
+88.0,182007193.0,10.0,43582477.0,70506281.0,74,1,Medellín,Vivienda,Constructora C
+115.7,287312678.0,19.0,52464651.0,,73,2,,Comercial,Constructora B
+123.6,282274209.0,13.0,51121500.0,102170948.0,80,6,Barranquilla,Vivienda,Constructora A
+135.4,358162736.0kg,13.0,77858862.0,72776051.0,13,2,Barranquilla,Industrial,Constructora A
+141.3,234611088.0,18.0,109650300.0,102281665.0,74,5,Bucaramanga,Industrial,Constructora C
+86.3,260957516.0,16.0,119626003.0,113068979.0,24,1,Medellín,Comercial,Constructora B
+74.0,262469184.0,15.0,87761022.0,73161828.0,85,6,Bucaramanga,Industrial,
+158.3,328872664.0x,20.0,,76237458.0,31,6,Bogotá,Vivienda,Constructora B
+130.0,245235223.0,12.0,38978845.0,,95,3,Barranquilla,,Constructora A
+97.5,263951076.0,17.0,,94072430.0,56,5,Cali,Vivienda,Constructora C
+166.5,,14.0,59244325.0,98272144.0,90,,Bogotá,Comercial,Constructora B
+123.5,259330456.0,15.0,62583048.0,95108838.0,55,1,Bogotá,Comercial,Constructora B
+155.4,227678319.0,19.0,71637124.0,95860439.0,23,1,Bucaramanga,Vivienda,
+122.0,259704500.0,16.0,,70102918.0,59,6,Medellín,Industrial,Constructora A
+181.8,303681587.0,16.0,35414004.0,105709766.0,29,2,Barranquilla,Industrial,Constructora A
+172.7,198674235.0,17.0,89958205.0,107543850.0,59,5,Cali,Comercial,Constructora B
+112.5,256648484.0,,53545139.0,86559139.0,42,1,Bogotá,Vivienda,Constructora C
+149.1,214993959.0,11.0,79784937.0,89347846.0,68,6,Cali,,Constructora C
+139.4,309752331.0,11.0,116481653.0,67033387.0,52,1,Medellín,Comercial,
+161.1,,8.0,56612308.0,97713821.0,88,6,Medellín,Industrial,Constructora C
+91.1,222053908.0,20.0,24394250.0,,21,5,Cali,Vivienda,Constructora A
+,268860594.0,11.0,69279916.0,,49,6,Barranquilla,Industrial,Constructora C
+151.8m2,328276201.0,13.0,97019193.0,106865300.0,29,3,Medellín,Industrial,Constructora B
+67.2,246712487.0,,114166949.0,84988842.0,47,6,Cali,Comercial,
+84.5,222240024.0,15.0,50409008.0,,12,6,Bogotá,Comercial,Constructora C
+58.8,344057853.0,16.0,84933984.0,74705035.0,37,5,Cali,,Constructora B
+111.9m2,177599305.0,17.0,65693791.0,89646718.0,65,6,Cali,Vivienda,Constructora C
+141.5,140059702.0,12.0m2,72881033.0,,,5,Bucaramanga,Vivienda,Constructora B
+,272000723.0m2,13.0,127886867.0,93379619.0,22,3,Medellín,Comercial,
+122.2,224897289.0,15.0,44940593.0,84457096.0,86,5,Barranquilla,Industrial,Constructora C
+168.9h,198938359.0,13.0,80074793.0,88027911.0,75,1,Barranquilla,Vivienda,
+78.6,,19.0,84353863.0,102390708.0,46,,Bucaramanga,Vivienda,
+68.9h,262190036.0,15.0,96715726.0,83448536.0,58,3,Barranquilla,Comercial,Constructora B
+118.3,221796068.0,16.0,,65901343.0,75,4,Cali,Industrial,Constructora B
+131.5,185984780.0,16.0,,116243759.0,45,6,Bucaramanga,Vivienda,Constructora A
+119.0,293622866.0,18.0,67167029.0,110721811.0,63,5,Bogotá,,Constructora B
+58.0,,15.0,80382539.0,,35,6,Medellín,Vivienda,Constructora A
+117.3,245041207.0,10.0,68136154.0,100345617.0,84,2,Medellín,Vivienda,Constructora B
+80.9,342331850.0,15.0,87431438.0,82455378.0,81,1,Medellín,Vivienda,Constructora A
+140.1,196495762.0,12.0,67607793.0,93952308.0,49,1,Cali,Comercial,Constructora B
+131.0,,12.0,82542008.0,94413362.0,,2,Bogotá,Industrial,Constructora B
+91.8,215404597.0,16.0,74414744.0,86483883.0,31,2,,Comercial,Constructora B
+104.6,247720699.0,18.0,97521005.0,78243515.0,29,5,Bucaramanga,Industrial,Constructora C
+88.2,262166972.0,14.0,73972126.0,79641884.0,17,2,Medellín,Vivienda,
+118.1m2,237938197.0,15.0,39539351.0,76257121.0,38,,Bogotá,Industrial,Constructora B
+148.7,267602770.0,19.0,100238430.0,77522667.0,49,6,Bogotá,Vivienda,Constructora A
+90.4,,15.0,56885354.0,88992326.0,,6,Bogotá,Vivienda,Constructora A
+135.1,322188230.0,22.0,61924673.0,,,3,Barranquilla,Comercial,Constructora B
+104.1,245892441.0,,63086774.0,100230781.0,90,2,Barranquilla,Vivienda,Constructora C
+96.2,305864792.0,9.0,102488762.0,112308692.0,93,2,Medellín,Comercial,Constructora A
+116.8,267136267.0,16.0,32286516.0,81299201.0,64,4,,Industrial,Constructora C
+88.9,272837661.0,15.0,,93591068.0,25,,Bogotá,Industrial,Constructora A
+103.4,278488364.0,18.0,96121136.0,97495277.0,55,1,Bucaramanga,,Constructora B
+84.1,272385428.0,16.0,79464778.0,97080034.0,71,6,Bucaramanga,Comercial,Constructora C
+,282136138.0,14.0,,91139329.0,16,6,Medellín,Vivienda,
+121.1,316457627.0,10.0,80711081.0,101140236.0,89,5,Bogotá,Comercial,Constructora B
+99.0,259826058.0,13.0,85422449.0,97233734.0,54,4,Medellín,Comercial,Constructora B
+126.4,285450188.0,,,71435064.0,68,3,Bucaramanga,Comercial,Constructora B
+116.6,,12.0,86112089.0,103037341.0,65,3,Bucaramanga,Industrial,Constructora C
+113.4,322005861.0,16.0,76791614.0,103309363.0,57,4,Barranquilla,,Constructora C
+138.4,216180385.0,19.0,71053232.0,78550708.0,36,,Medellín,Industrial,Constructora B
+142.7,340047022.0,15.0,71974534.0,,62,1,,Comercial,Constructora C
+104.1,247992102.0,10.0,71101834.0,100249935.0,,3,,Industrial,Constructora A
+102.7,178461245.0,15.0m2,97675402.0,86860293.0,97,3,Bogotá,Industrial,Constructora B
+111.7,256405221.0,18.0,86871134.0,106094671.0,82,4,Barranquilla,Industrial,Constructora B
+,215947417.0,12.0,16192227.0,125458087.0,44,,Cali,Vivienda,Constructora C
+,292032177.0,14.0,88118016.0,78210210.0,60,3,Cali,Comercial,Constructora B
+161.0,217368801.0,14.0,78894724.0,69284331.0,,2,Cali,Vivienda,Constructora A
+,227690828.0,12.0,74625825.0,94557279.0,46,4,Medellín,,
+112.5,155522963.0,,67229631.0,100823438.0,90,,Medellín,Comercial,Constructora C
+137.3,227384684.0,14.0,97482254.0,86537004.0,66,5,Bucaramanga,Vivienda,Constructora B
+129.3,128806034.0,15.0,,111798910.0,17,1,Medellín,Industrial,Constructora B
+212.4,170804859.0,11.0,59542447.0,69920913.0,88,3,Medellín,Comercial,
+153.6,288020733.0,13.0,83141046.0,100393779.0,29,,Medellín,Industrial,Constructora C
+116.2,289290008.0,16.0,,80912088.0,62,1,Barranquilla,Vivienda,Constructora B
+91.3,,,47407637.0,115790669.0,21,3,Medellín,Industrial,
+71.8,201651193.0,19.0,,119887730.0,58,4,Bogotá,Comercial,Constructora B
+126.1,247614432.0,13.0,92247869.0,78500151.0,26,5,Bogotá,Comercial,Constructora B
+97.3,,15.0,94062501.0,81756643.0,73,6,,Comercial,Constructora C
+77.3,192081766.0,17.0,85261708.0,102893818.0,51,2,Barranquilla,Vivienda,Constructora B
+100.6,325169915.0,10.0,89501916.0,,38,6,Bogotá,Comercial,Constructora C
+87.6,293868115.0,9.0,85323566.0,89318832.0,28,5,Barranquilla,Vivienda,Constructora B
+170.6,238951791.0,9.0,62170368.0,90380826.0,20,6,Barranquilla,Industrial,Constructora A
+146.4,251344292.0,18.0,83638451.0,61204903.0,,4,Bucaramanga,Comercial,Constructora A
+119.8,,12.0,91008191.0,89792434.0,,3,Barranquilla,Comercial,Constructora C
+164.4,147913257.0,22.0,90085827.0,,67,4,,,
+,237641131.0,12.0,98778267.0,82603158.0,43,6,Barranquilla,Industrial,Constructora B
+94.2,215900788.0,15.0,89166077.0,111654480.0,29,4,Bucaramanga,Comercial,Constructora B
+165.7,199919000.0,19.0,82028964.0,,59,5,Bucaramanga,,
+,235944985.0,20.0,96403005.0,102198078.0,97,2,Bucaramanga,Industrial,Constructora B
+,339884326.0,20.0,74469575.0,,19,4,,Industrial,Constructora A
+114.3,,18.0,57362507.0,85803597.0,41,5,Medellín,Industrial,Constructora C
+93.7,221441051.0,17.0,71738661.0,101855578.0,61,2,Bogotá,Industrial,Constructora B
+78.5,278629139.0,16.0,60101947.0,95100769.0,24,,Cali,Industrial,Constructora C

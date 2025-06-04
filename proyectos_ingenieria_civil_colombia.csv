@@ -1,0 +1,501 @@
+ID_Proyecto,Nombre_Proyecto,Costo_Estimado_USD,Duracion_Semanas,Tipo_Infraestructura,Ubicacion_Departamento,N_Empleados_Directos,Area_Construida_m2,Consumo_Cemento_ton,Anio_Inicio,Estado_Proyecto
+1,Proyecto_Ing_1,,299.0,Férrea,Antioquia,505.0,54134.48,2904.0,2019,Suspendido
+2,Proyecto_Ing_2,292609801.11,284.0,Saneamiento,Vichada,746.0,16613.49,,2010,En Ejecución
+3,Proyecto_Ing_3,835615352.39,,Aeroportuaria,San Andrés y Providencia,429.0,10308.99,4100.0,2023,Suspendido
+4,Proyecto_Ing_4,839688577.31,92.0,Acueducto,Atlántico,71.0,4771.67,14074.0,2017,Suspendido
+5,Proyecto_Ing_5,572267491.88,134.0,Transporte Masivo,Meta,897.0,63783.6,1304.0,2023,En Planificación
+6,Proyecto_Ing_6,810731936.96,115.0,Transporte Masivo,Guaviare,954.0,,3964.0,2022,Suspendido
+7,Proyecto_Ing_7,301595853.37,157.0,Minería,Norte de Santander,402.0,86564.77,8728.0,2023,En Ejecución
+8,Proyecto_Ing_8,843424046k,382.0,Industrial,Guainía,981.0,67231.74,,2022,En Planificación
+9,Proyecto_Ing_9,388958328.13,,Energética,Vaupés,265.0,60579.39,6132.0,2013,Finalizado
+10,Proyecto_Ing_10,151843019.29,308.0,Urbana,Meta,469.0,15632.61,12323.0,2014,Finalizado
+11,Proyecto_Ing_11,462069213.43,74.0,Residencial,Tolima,206.0,,10870.0,2022,Finalizado
+12,Proyecto_Ing_12,601320433.08,111.0,Vial,Norte de Santander,800.0,,1646.0,2024,En Planificación
+13,Proyecto_Ing_13,,292.0,Transporte Masivo,Arauca,,55700.63,8345.0,2010,En Ejecución
+14,Proyecto_Ing_14,473463894.37,326.0,Ambiental,Norte de Santander,280.0,7583.1,,2011,Suspendido
+15,Proyecto_Ing_15,,383.0,Acueducto,Huila,573.0,25770.56,6563.0,2011,Finalizado
+16,Proyecto_Ing_16,829785421.67,232.0,Vial,Bolívar,,8848.78,4127.0,2022,En Ejecución
+17,Proyecto_Ing_17,416240559.15,187.0,Energética,Magdalena,829.0,41160.56,10510.0,2021,Finalizado
+18,Proyecto_Ing_18,825179877.89,141.0,Transporte Masivo,Amazonas,831.0,89551.16,,2015,Suspendido
+19,Proyecto_Ing_19,177345349.72,385.0,Minería,Antioquia,145.0,84353.2,4892.0,2021,En Planificación
+20,Proyecto_Ing_20,997777094.84,265.0,Puente,Sucre,774.0,22688.63,,2019,Suspendido
+21,Proyecto_Ing_21,444080617.13,100.0,Industrial,Risaralda,938.0,37190.93,12206.0,2023,Suspendido
+22,Proyecto_Ing_22,658771766.95,127.0,Urbana,Arauca,742.0,66878.47,8464.0,2024,En Ejecución
+23,Proyecto_Ing_23,763600714.25,307.0,Saneamiento,Norte de Santander,,82848.7,9462.0,2012,En Planificación
+24,Proyecto_Ing_24,156437645.88,218.0,Edificación,Huila,,1830.46,797.0,2016,Finalizado
+25,Proyecto_Ing_25,27184581.35,291.0,Minería,Caldas,,74339.56,14140.0,2018,En Planificación
+26,Proyecto_Ing_26,,331.0,Férrea,Nariño,455.0,47270.48,14910.0,2018,En Ejecución
+27,Proyecto_Ing_27,390318465.86,105.0,Residencial,Risaralda,291.0,66204.72,10092.0,2024,En Planificación
+28,Proyecto_Ing_28,192561021.29,194.0,Acueducto,Valle del Cauca,,42534.82,13891.0,2020,En Planificación
+29,Proyecto_Ing_29,23039579.99,,Acueducto,Cesar,120.0,,6501.0,2015,En Ejecución
+30,Proyecto_Ing_30,504735734.55,321.0,Vial,Nariño,896.0,8715.59,,2024,En Ejecución
+31,Proyecto_Ing_31,297186783.71,398.0,Puente,Quindío,508.0,95177.26,5140.0,2024,En Ejecución
+32,Proyecto_Ing_32,747822554.0,,Ambiental,Guaviare,423.0,8124.27,4613.0,2024,En Ejecución
+33,Proyecto_Ing_33,861097683.33,,Férrea,Cundinamarca,252.0,,10445.0,2012,En Planificación
+34,Proyecto_Ing_34,375171239.25,131.0,Férrea,Caldas,267.0,6368.33,1358.0,2016,Finalizado
+35,Proyecto_Ing_35,282714707.28,55.0,Portuaria,Córdoba,205.0,4574.9,3952.0,2023,En Planificación
+36,Proyecto_Ing_36,,281.0,Vial,San Andrés y Providencia,376.0,62777.44,10771.0,2019,Suspendido
+37,Proyecto_Ing_37,645383100.17,84.0,Hidráulica,Meta,396.0,37379.54,7460.0,2024,En Ejecución
+38,Proyecto_Ing_38,,,Aeroportuaria,Guaviare,355.0,72453.8,,2023,En Planificación
+39,Proyecto_Ing_39,711743839h,129.0,Energética,Casanare,907.0,90419.34,10145.0,2015,En Planificación
+40,Proyecto_Ing_40,98988506.64,124.0,Vial,Cesar,727.0,41461.47,,2010,En Planificación
+41,Proyecto_Ing_41,417732133.63,,Portuaria,Quindío,981.0,,14845.0,2014,Finalizado
+42,Proyecto_Ing_42,168615490.62,,Residencial,Casanare,339.0,88884.96,,2019,Finalizado
+43,Proyecto_Ing_43,37724284.98,308.0,Saneamiento,Vaupés,306.0,24142.86,7254.0,2024,En Ejecución
+44,Proyecto_Ing_44,507378121.98,359.0,Portuaria,Risaralda,773.0,11774.79,,2024,En Ejecución
+45,Proyecto_Ing_45,796492185.11,252.0,Ambiental,Caldas,138.0,17891.03,13803.0,2024,En Ejecución
+46,Proyecto_Ing_46,585035814.04,,Edificación,Boyacá,478.0,12327.43,12984.0,2023,Finalizado
+47,Proyecto_Ing_47,,148.0,Saneamiento,Huila,,,5806.0,2015,Finalizado
+48,Proyecto_Ing_48,81018921.13,51.0,Energética,Guaviare,279.0,66695.75,14282.0,2022,Finalizado
+49,Proyecto_Ing_49,,218.0,Aeroportuaria,Guaviare,931.0,25967.74,8697.0,2013,Suspendido
+50,Proyecto_Ing_50,237276303.02,174.0,Industrial,Arauca,24.0,60171.16,4639.0,2020,En Planificación
+51,Proyecto_Ing_51,132505793.7,91.0,Urbana,Santander,,20929.27,14710.0,2019,Finalizado
+52,Proyecto_Ing_52,80093868.84,282.0,Industrial,Boyacá,564.0,76776.49,9725.0,2023,Finalizado
+53,Proyecto_Ing_53,709622707.86,298.0,Minería,Guainía,,52110.95,3431.0,2015,En Ejecución
+54,Proyecto_Ing_54,19965060.44,257.0,Urbana,Guaviare,,,11301.0,2015,Suspendido
+55,Proyecto_Ing_55,357256093.93,130.0,Aeroportuaria,Quindío,471.0,65441.63,1890.0,2019,En Ejecución
+56,Proyecto_Ing_56,615049205.81,397.0,Hidráulica,Antioquia,131.0,,12581.0,2014,En Planificación
+57,Proyecto_Ing_57,926952832.92,266.0,Aeroportuaria,Cundinamarca,,25665.85,,2012,En Ejecución
+58,Proyecto_Ing_58,351573988h,128.0,Minería,Norte de Santander,,33507.72,8761.0,2012,Suspendido
+59,Proyecto_Ing_59,894423087.65,289.0,Hidráulica,Nariño,465.0,80845.34,12923.0,2016,Finalizado
+60,Proyecto_Ing_60,795773695.49,206.0,Férrea,Cauca,,12877.25,14612.0,2014,En Planificación
+61,Proyecto_Ing_61,930728704.1,63.0,Transporte Masivo,Bolívar,577.0,64398.01,2972.0,2021,Finalizado
+62,Proyecto_Ing_62,444385786.37,269.0,Transporte Masivo,Valle del Cauca,826.0,72265.81,11700.0,2012,En Ejecución
+63,Proyecto_Ing_63,798940840.78,216.0,Vial,Boyacá,674.0,25165.2,8222.0,2011,Suspendido
+64,Proyecto_Ing_64,405814649.09,291.0,Industrial,Putumayo,328.0,95039.01,,2020,En Ejecución
+65,Proyecto_Ing_65,408393304.98,84.0,Urbana,Tolima,306.0,82342.64,9667.0,2011,Suspendido
+66,Proyecto_Ing_66,,259.0,Urbana,Chocó,700.0,21364.75,1323.0,2016,Finalizado
+67,Proyecto_Ing_67,704759988.42,187.0,Ambiental,Cesar,311.0,66863.39,,2019,En Planificación
+68,Proyecto_Ing_68,75165999.85,302.0,Puente,Bolívar,851.0,65004.54,,2022,Suspendido
+69,Proyecto_Ing_69,198960376.18,162.0,Minería,Chocó,990.0,76325.58,,2019,Suspendido
+70,Proyecto_Ing_70,691656880.55,314.0,Edificación,Nariño,76.0,59044.26,692.0,2014,En Ejecución
+71,Proyecto_Ing_71,,338.0,Férrea,Meta,486.0,68965.18,1632.0,2017,En Ejecución
+72,Proyecto_Ing_72,627488116k,187.0,Ambiental,Sucre,427.0,39742.35,13975.0,2019,Suspendido
+73,Proyecto_Ing_73,814030401.01,349.0,Residencial,Guaviare,956.0,57720.08,9267.0,2016,Finalizado
+74,Proyecto_Ing_74,401909945.59,324.0,Puente,Guaviare,489.0,,489.0,2017,Suspendido
+75,Proyecto_Ing_75,714635749.94,230.0,Acueducto,Norte de Santander,458.0,38053.85,2006.0,2023,Finalizado
+76,Proyecto_Ing_76,852632748.8,158.0,Saneamiento,Sucre,300.0,27494.57,1314.0,2012,Suspendido
+77,Proyecto_Ing_77,222820635.82,338.0,Puente,Magdalena,277.0,48760.65,510.0,2011,En Planificación
+78,Proyecto_Ing_78,931665334.19,206.0,Industrial,Caldas,957.0,57473.99,,2011,Suspendido
+79,Proyecto_Ing_79,831538303.67,51.0,Acueducto,Guaviare,970.0,67061.06,,2019,Finalizado
+80,Proyecto_Ing_80,110030600k,106.0,Portuaria,Cundinamarca,123.0,,1645.0,2011,Finalizado
+81,Proyecto_Ing_81,954599142.21,173.0,Urbana,Amazonas,625.0,,4893.0,2011,En Ejecución
+82,Proyecto_Ing_82,588439722.57,50.0,Industrial,Cauca,271.0,11873.64,,2023,Finalizado
+83,Proyecto_Ing_83,316726073.32,81.0,Urbana,Casanare,253.0,35491.13,2012.0,2024,Finalizado
+84,Proyecto_Ing_84,373776150.88,374.0,Portuaria,Casanare,467.0,31585.5,,2023,Finalizado
+85,Proyecto_Ing_85,862869712.35,,Ambiental,Huila,340.0,,2680.0,2023,En Ejecución
+86,Proyecto_Ing_86,288086170.53,390.0,Edificación,Atlántico,919.0,,5792.0,2011,En Planificación
+87,Proyecto_Ing_87,,51.0,Acueducto,Guainía,846.0,35300.73,14079.0,2019,En Planificación
+88,Proyecto_Ing_88,,396.0,Transporte Masivo,Cauca,113.0,74020.51,8631.0,2023,Finalizado
+89,Proyecto_Ing_89,110471689.84,,Aeroportuaria,Arauca,955.0,,9347.0,2022,En Ejecución
+90,Proyecto_Ing_90,982777767.64,137.0,Acueducto,Cundinamarca,537.0,96910.25,,2014,Suspendido
+91,Proyecto_Ing_91,294170816.65,187.0,Transporte Masivo,Meta,770.0,48811.45,,2024,Suspendido
+92,Proyecto_Ing_92,301575667.15,216.0,Vial,Norte de Santander,,,12934.0,2017,Finalizado
+93,Proyecto_Ing_93,601126635.39,124.0,Vial,Valle del Cauca,224.0,38584.82,11022.0,2013,Suspendido
+94,Proyecto_Ing_94,765950259.22,75.0,Aeroportuaria,Bolívar,,40936.03,11465.0,2018,En Planificación
+95,Proyecto_Ing_95,914427415.43,176.0,Energética,Vichada,57.0,88285.23,,2013,Suspendido
+96,Proyecto_Ing_96,919882747k,370.0,Industrial,Bolívar,347.0,60222.2,14512.0,2010,Suspendido
+97,Proyecto_Ing_97,145053391.51,263.0,Edificación,Guaviare,499.0,42705.78,,2013,Suspendido
+98,Proyecto_Ing_98,93905241.84,247.0,Acueducto,Santander,,57414.64,13850.0,2020,Finalizado
+99,Proyecto_Ing_99,75367196h,382.0,Férrea,Casanare,,51754.7,3419.0,2022,En Ejecución
+100,Proyecto_Ing_100,977231614.88,112.0,Aeroportuaria,Tolima,,69970.19,14083.0,2014,Finalizado
+101,Proyecto_Ing_101,877586384.0,306.0,Aeroportuaria,Atlántico,970.0,79101.31,10561.0,2019,En Planificación
+102,Proyecto_Ing_102,630913081.9,205.0,Edificación,Magdalena,,44867.71,,2016,Finalizado
+103,Proyecto_Ing_103,898685994.42,146.0,Saneamiento,Córdoba,,58226.57,5803.0,2013,En Planificación
+104,Proyecto_Ing_104,313378235k,175.0,Industrial,Sucre,690.0,63365.05,,2017,Finalizado
+105,Proyecto_Ing_105,199506135.9,244.0,Puente,Chocó,995.0,69412.25,,2016,Finalizado
+106,Proyecto_Ing_106,758178832h,389.0,Energética,Guainía,969.0,9560.37,10243.0,2019,En Ejecución
+107,Proyecto_Ing_107,672756519.0,245.0,Ambiental,Norte de Santander,284.0,54006.62,8465.0,2024,En Planificación
+108,Proyecto_Ing_108,813784443.25,198.0,Puente,Putumayo,467.0,10875.37,,2018,Finalizado
+109,Proyecto_Ing_109,,116.0,Residencial,Antioquia,635.0,,6291.0,2016,En Ejecución
+110,Proyecto_Ing_110,284241206.46,294.0,Residencial,Casanare,524.0,18629.29,3865.0,2014,En Planificación
+111,Proyecto_Ing_111,,,Industrial,Guaviare,585.0,54330.8,3508.0,2015,En Ejecución
+112,Proyecto_Ing_112,885870299.85,267.0,Ambiental,Bolívar,497.0,83062.06,5704.0,2018,Suspendido
+113,Proyecto_Ing_113,327372410h,218.0,Aeroportuaria,Valle del Cauca,154.0,14682.86,12590.0,2010,Suspendido
+114,Proyecto_Ing_114,998832791.7,205.0,Residencial,Casanare,920.0,7733.33,,2016,En Planificación
+115,Proyecto_Ing_115,,298.0,Transporte Masivo,Santander,554.0,89783.56,11906.0,2017,En Ejecución
+116,Proyecto_Ing_116,77729203.64,180.0,Ambiental,Guainía,584.0,,,2014,En Planificación
+117,Proyecto_Ing_117,,118.0,Ambiental,Cundinamarca,271.0,31095.37,,2010,Suspendido
+118,Proyecto_Ing_118,52892223.5,211.0,Transporte Masivo,Caldas,811.0,,12839.0,2010,Suspendido
+119,Proyecto_Ing_119,579532515h,281.0,Transporte Masivo,Putumayo,,,6383.0,2013,Suspendido
+120,Proyecto_Ing_120,649213221h,170.0,Urbana,Nariño,154.0,59746.17,13661.0,2019,En Planificación
+121,Proyecto_Ing_121,638242837.4,146.0,Industrial,Huila,874.0,46722.03,9952.0,2024,Finalizado
+122,Proyecto_Ing_122,,290.0,Hidráulica,Huila,391.0,80591.17,403.0,2012,Suspendido
+123,Proyecto_Ing_123,152314464.47,251.0,Minería,Cauca,620.0,74724.95,,2020,En Ejecución
+124,Proyecto_Ing_124,46493484.57,,Minería,La Guajira,61.0,41832.16,7846.0,2015,En Planificación
+125,Proyecto_Ing_125,765993554.53,89.0,Aeroportuaria,San Andrés y Providencia,139.0,,,2010,Finalizado
+126,Proyecto_Ing_126,516511340.91,,Residencial,Valle del Cauca,423.0,28883.25,950.0,2023,En Planificación
+127,Proyecto_Ing_127,600186501h,190.0,Férrea,Norte de Santander,764.0,7935.8,4081.0,2024,Finalizado
+128,Proyecto_Ing_128,553692063.16,327.0,Industrial,San Andrés y Providencia,320.0,54988.56,,2023,En Planificación
+129,Proyecto_Ing_129,436277056.72,135.0,Residencial,Casanare,,25699.1,1655.0,2014,Finalizado
+130,Proyecto_Ing_130,506195063k,60.0,Urbana,Caldas,516.0,83427.46,12521.0,2011,En Ejecución
+131,Proyecto_Ing_131,914886230.55,231.0,Edificación,Cundinamarca,256.0,81801.24,,2024,Finalizado
+132,Proyecto_Ing_132,54819440.62,306.0,Férrea,Córdoba,426.0,45339.61,10553.0,2020,Suspendido
+133,Proyecto_Ing_133,9488705.33,318.0,Urbana,Vaupés,466.0,77751.89,,2014,En Ejecución
+134,Proyecto_Ing_134,,178.0,Transporte Masivo,Meta,840.0,,,2011,En Ejecución
+135,Proyecto_Ing_135,,,Residencial,Caquetá,153.0,74725.89,,2013,Suspendido
+136,Proyecto_Ing_136,781098702k,128.0,Vial,Amazonas,440.0,32253.52,,2019,Finalizado
+137,Proyecto_Ing_137,798539237.97,281.0,Puente,Arauca,109.0,12906.98,14002.0,2021,En Ejecución
+138,Proyecto_Ing_138,121835405.54,133.0,Vial,Antioquia,233.0,87985.73,,2019,En Planificación
+139,Proyecto_Ing_139,79196458.72,84.0,Minería,Córdoba,215.0,97120.12,11111.0,2016,En Planificación
+140,Proyecto_Ing_140,,102.0,Férrea,Guaviare,578.0,53412.68,,2018,Finalizado
+141,Proyecto_Ing_141,403511822.78,,Edificación,Vichada,452.0,,,2020,En Planificación
+142,Proyecto_Ing_142,,138.0,Acueducto,Atlántico,47.0,55465.9,8793.0,2017,Suspendido
+143,Proyecto_Ing_143,,268.0,Acueducto,Sucre,979.0,,439.0,2014,En Ejecución
+144,Proyecto_Ing_144,28922555.63,194.0,Urbana,Vaupés,725.0,12520.86,6875.0,2011,Suspendido
+145,Proyecto_Ing_145,831470702.79,314.0,Puente,Boyacá,26.0,,,2020,En Planificación
+146,Proyecto_Ing_146,370263021.17,225.0,Saneamiento,Nariño,888.0,70351.47,11352.0,2016,En Ejecución
+147,Proyecto_Ing_147,271861612.02,385.0,Vial,Caldas,900.0,86862.35,,2020,En Planificación
+148,Proyecto_Ing_148,802881602.83,314.0,Portuaria,Córdoba,,35955.01,,2016,En Ejecución
+149,Proyecto_Ing_149,32768039.27,,Saneamiento,Antioquia,494.0,,,2022,Suspendido
+150,Proyecto_Ing_150,393721798h,362.0,Vial,Santander,925.0,35689.36,2688.0,2020,En Ejecución
+151,Proyecto_Ing_151,828411205.25,,Urbana,Huila,88.0,32337.97,3378.0,2023,Finalizado
+152,Proyecto_Ing_152,99168767.68,264.0,Saneamiento,Chocó,252.0,52508.18,5202.0,2013,Finalizado
+153,Proyecto_Ing_153,267634313.33,291.0,Férrea,San Andrés y Providencia,459.0,57463.11,5890.0,2015,En Ejecución
+154,Proyecto_Ing_154,,,Industrial,Cauca,494.0,95424.04,11590.0,2024,Suspendido
+155,Proyecto_Ing_155,525694539.34,,Vial,Quindío,228.0,67127.07,11748.0,2016,En Ejecución
+156,Proyecto_Ing_156,285225371.08,340.0,Residencial,Guaviare,726.0,18383.58,5490.0,2018,En Ejecución
+157,Proyecto_Ing_157,372915938.44,127.0,Portuaria,Huila,941.0,45772.12,9350.0,2012,En Ejecución
+158,Proyecto_Ing_158,615126669.65,,Saneamiento,Boyacá,102.0,,3469.0,2018,Finalizado
+159,Proyecto_Ing_159,721682901.63,124.0,Urbana,Vaupés,695.0,19633.32,14429.0,2018,Suspendido
+160,Proyecto_Ing_160,307062833.35,221.0,Energética,Meta,,52214.15,4509.0,2016,En Ejecución
+161,Proyecto_Ing_161,969977111.25,297.0,Transporte Masivo,La Guajira,68.0,14122.67,11144.0,2021,En Ejecución
+162,Proyecto_Ing_162,705114010.54,87.0,Puente,Huila,629.0,86906.05,1072.0,2017,Finalizado
+163,Proyecto_Ing_163,57798271.81,208.0,Transporte Masivo,Risaralda,333.0,37834.15,13252.0,2018,Finalizado
+164,Proyecto_Ing_164,713020415.62,209.0,Ambiental,Caldas,297.0,8082.11,11279.0,2023,En Ejecución
+165,Proyecto_Ing_165,894057381.39,359.0,Energética,Atlántico,712.0,13918.71,,2015,Finalizado
+166,Proyecto_Ing_166,644700660.28,357.0,Transporte Masivo,Cesar,711.0,67917.6,10832.0,2021,Suspendido
+167,Proyecto_Ing_167,939359706.77,160.0,Portuaria,Caldas,,57316.94,657.0,2012,En Ejecución
+168,Proyecto_Ing_168,,203.0,Ambiental,Santander,192.0,8527.75,2400.0,2014,Finalizado
+169,Proyecto_Ing_169,684299244.66,191.0,Urbana,Norte de Santander,691.0,82581.46,,2020,Suspendido
+170,Proyecto_Ing_170,817999055.77,154.0,Hidráulica,Magdalena,761.0,72078.11,,2018,En Ejecución
+171,Proyecto_Ing_171,604834471.12,231.0,Residencial,Cesar,611.0,13200.32,7327.0,2012,En Planificación
+172,Proyecto_Ing_172,,97.0,Acueducto,Guainía,334.0,64949.02,1050.0,2020,En Ejecución
+173,Proyecto_Ing_173,892121920.03,,Aeroportuaria,Amazonas,200.0,13962.7,5635.0,2017,En Planificación
+174,Proyecto_Ing_174,29107964.33,305.0,Vial,Norte de Santander,394.0,49679.58,,2023,En Ejecución
+175,Proyecto_Ing_175,295004439.21,73.0,Acueducto,Boyacá,580.0,,9762.0,2017,Suspendido
+176,Proyecto_Ing_176,,197.0,Hidráulica,La Guajira,834.0,96315.3,8438.0,2017,En Ejecución
+177,Proyecto_Ing_177,293317463.27,72.0,Hidráulica,Cesar,873.0,31551.11,8931.0,2016,Suspendido
+178,Proyecto_Ing_178,437230460.65,356.0,Residencial,Boyacá,507.0,28363.13,4127.0,2012,En Ejecución
+179,Proyecto_Ing_179,718201223.39,,Ambiental,Valle del Cauca,137.0,31991.48,2324.0,2010,En Ejecución
+180,Proyecto_Ing_180,445520787.9,392.0,Edificación,Guainía,,64636.71,2872.0,2010,En Ejecución
+181,Proyecto_Ing_181,639323614.26,152.0,Portuaria,Santander,,27612.29,10788.0,2024,Finalizado
+182,Proyecto_Ing_182,115520850.7,94.0,Ambiental,Meta,836.0,54733.75,6745.0,2015,Suspendido
+183,Proyecto_Ing_183,455929824.9,67.0,Hidráulica,Caldas,871.0,82123.79,8728.0,2019,En Planificación
+184,Proyecto_Ing_184,169018205.69,366.0,Saneamiento,Chocó,38.0,29224.16,,2013,Suspendido
+185,Proyecto_Ing_185,879806516.47,140.0,Edificación,Casanare,214.0,10517.62,12172.0,2011,Finalizado
+186,Proyecto_Ing_186,445455109.3,50.0,Saneamiento,Cundinamarca,,,9987.0,2013,En Ejecución
+187,Proyecto_Ing_187,399202751.45,111.0,Edificación,Bolívar,490.0,70828.09,,2024,Suspendido
+188,Proyecto_Ing_188,750917651.84,260.0,Edificación,Valle del Cauca,142.0,5275.77,12887.0,2012,En Ejecución
+189,Proyecto_Ing_189,607444707.26,61.0,Energética,Córdoba,366.0,56435.1,,2018,Suspendido
+190,Proyecto_Ing_190,407238757.79,336.0,Portuaria,Huila,560.0,,4291.0,2012,Finalizado
+191,Proyecto_Ing_191,,,Puente,Chocó,,83202.23,14410.0,2023,En Planificación
+192,Proyecto_Ing_192,941488746.64,370.0,Edificación,Casanare,159.0,4430.04,7589.0,2017,En Planificación
+193,Proyecto_Ing_193,,343.0,Portuaria,Putumayo,477.0,,10832.0,2019,Suspendido
+194,Proyecto_Ing_194,645111452.91,136.0,Industrial,La Guajira,692.0,84371.39,4619.0,2020,En Planificación
+195,Proyecto_Ing_195,,376.0,Hidráulica,Atlántico,585.0,5104.03,4817.0,2023,En Ejecución
+196,Proyecto_Ing_196,710966277.12,237.0,Residencial,Quindío,203.0,42464.79,,2014,Finalizado
+197,Proyecto_Ing_197,494293818.23,386.0,Minería,Tolima,83.0,,,2021,En Planificación
+198,Proyecto_Ing_198,52490512.62,108.0,Transporte Masivo,Casanare,503.0,41203.55,12306.0,2021,Finalizado
+199,Proyecto_Ing_199,,151.0,Energética,Quindío,956.0,14438.02,14738.0,2017,Finalizado
+200,Proyecto_Ing_200,127972305k,206.0,Aeroportuaria,Vaupés,,82237.66,11357.0,2020,En Ejecución
+201,Proyecto_Ing_201,361703333.4,223.0,Puente,Guaviare,,,13624.0,2022,En Planificación
+202,Proyecto_Ing_202,448160043.39,,Hidráulica,Amazonas,869.0,40277.63,9533.0,2011,Finalizado
+203,Proyecto_Ing_203,874689965.48,122.0,Urbana,Vaupés,461.0,19943.33,,2013,Suspendido
+204,Proyecto_Ing_204,635561056.94,273.0,Saneamiento,Risaralda,662.0,89705.66,13798.0,2011,En Planificación
+205,Proyecto_Ing_205,817659362h,102.0,Urbana,Quindío,960.0,22359.79,12884.0,2016,En Ejecución
+206,Proyecto_Ing_206,227709581.28,286.0,Minería,Santander,934.0,64329.13,7570.0,2010,En Planificación
+207,Proyecto_Ing_207,670367737.94,199.0,Aeroportuaria,Guaviare,,9270.9,2314.0,2018,Suspendido
+208,Proyecto_Ing_208,272352192.18,256.0,Acueducto,San Andrés y Providencia,784.0,21693.26,,2017,En Planificación
+209,Proyecto_Ing_209,615869986.85,256.0,Saneamiento,Valle del Cauca,881.0,24534.3,12877.0,2017,Finalizado
+210,Proyecto_Ing_210,849879171.14,133.0,Transporte Masivo,Vichada,158.0,6778.25,10697.0,2019,En Ejecución
+211,Proyecto_Ing_211,759497918.05,355.0,Urbana,Caldas,438.0,65119.98,14857.0,2017,En Ejecución
+212,Proyecto_Ing_212,103559451.7,,Vial,Santander,167.0,13272.26,12144.0,2022,Finalizado
+213,Proyecto_Ing_213,66120859.69,,Acueducto,Vaupés,419.0,45816.68,2274.0,2021,En Ejecución
+214,Proyecto_Ing_214,207287511.9,248.0,Energética,Vaupés,207.0,91023.38,1615.0,2010,En Ejecución
+215,Proyecto_Ing_215,,378.0,Urbana,Norte de Santander,40.0,43780.53,5469.0,2010,En Ejecución
+216,Proyecto_Ing_216,961390931.77,270.0,Industrial,Cundinamarca,104.0,46123.08,13004.0,2022,Suspendido
+217,Proyecto_Ing_217,936603179.28,312.0,Transporte Masivo,Cauca,857.0,,,2011,Finalizado
+218,Proyecto_Ing_218,,337.0,Urbana,Vichada,814.0,21205.74,11135.0,2019,En Ejecución
+219,Proyecto_Ing_219,416959570k,67.0,Puente,Arauca,541.0,85558.17,,2023,Suspendido
+220,Proyecto_Ing_220,91255494.61,386.0,Saneamiento,Caldas,958.0,,,2016,Suspendido
+221,Proyecto_Ing_221,759102970.11,135.0,Puente,Caquetá,,,,2021,En Ejecución
+222,Proyecto_Ing_222,,,Puente,Norte de Santander,297.0,48691.18,6643.0,2011,En Ejecución
+223,Proyecto_Ing_223,699923735.19,218.0,Hidráulica,Antioquia,,71761.03,11979.0,2018,Finalizado
+224,Proyecto_Ing_224,888654952.92,273.0,Urbana,Arauca,946.0,80216.01,14757.0,2020,En Planificación
+225,Proyecto_Ing_225,,,Residencial,Meta,300.0,90659.78,,2013,En Ejecución
+226,Proyecto_Ing_226,542430218.38,103.0,Portuaria,Putumayo,438.0,68850.48,14940.0,2022,En Ejecución
+227,Proyecto_Ing_227,98896447.78,76.0,Edificación,Cesar,503.0,71121.47,5986.0,2024,Suspendido
+228,Proyecto_Ing_228,822590795.03,294.0,Saneamiento,Huila,748.0,21239.01,10326.0,2024,Suspendido
+229,Proyecto_Ing_229,341759718.15,208.0,Acueducto,Sucre,,76447.81,11656.0,2022,En Planificación
+230,Proyecto_Ing_230,932762761.98,268.0,Transporte Masivo,Meta,820.0,37594.39,6599.0,2013,En Planificación
+231,Proyecto_Ing_231,80572307.99,72.0,Férrea,Atlántico,574.0,10651.35,5604.0,2010,En Ejecución
+232,Proyecto_Ing_232,678393585.98,,Ambiental,Putumayo,,61617.98,13471.0,2015,Suspendido
+233,Proyecto_Ing_233,857855842.63,399.0,Acueducto,Santander,589.0,15719.01,11899.0,2024,Suspendido
+234,Proyecto_Ing_234,,343.0,Aeroportuaria,Atlántico,277.0,8053.76,,2010,En Ejecución
+235,Proyecto_Ing_235,551520813.96,83.0,Urbana,Vaupés,774.0,77533.93,,2013,En Planificación
+236,Proyecto_Ing_236,922304426.42,122.0,Férrea,Caldas,440.0,90232.52,6868.0,2013,En Ejecución
+237,Proyecto_Ing_237,271181246.97,53.0,Minería,Córdoba,550.0,88230.22,5873.0,2014,En Planificación
+238,Proyecto_Ing_238,610249414.44,87.0,Energética,Valle del Cauca,337.0,46346.49,14983.0,2012,Finalizado
+239,Proyecto_Ing_239,173523939.72,278.0,Urbana,Guaviare,281.0,97629.94,13485.0,2021,Finalizado
+240,Proyecto_Ing_240,359000814.38,138.0,Acueducto,Cundinamarca,861.0,14577.67,,2011,En Ejecución
+241,Proyecto_Ing_241,856645169.83,351.0,Acueducto,Putumayo,,,10987.0,2015,En Planificación
+242,Proyecto_Ing_242,605579443.89,50.0,Saneamiento,Sucre,358.0,74967.19,13016.0,2012,Suspendido
+243,Proyecto_Ing_243,934550186.78,98.0,Portuaria,Vichada,894.0,22792.94,709.0,2015,En Planificación
+244,Proyecto_Ing_244,,368.0,Vial,Boyacá,976.0,,905.0,2020,Finalizado
+245,Proyecto_Ing_245,808488978.52,217.0,Vial,Arauca,899.0,8013.98,7126.0,2012,Finalizado
+246,Proyecto_Ing_246,489642921.59,,Aeroportuaria,Norte de Santander,471.0,42858.62,1746.0,2022,En Ejecución
+247,Proyecto_Ing_247,394663666.57,395.0,Minería,Atlántico,891.0,,7919.0,2024,Suspendido
+248,Proyecto_Ing_248,,,Portuaria,Risaralda,820.0,39168.54,8245.0,2016,Suspendido
+249,Proyecto_Ing_249,58787972.62,263.0,Urbana,Tolima,239.0,11104.13,13116.0,2011,En Planificación
+250,Proyecto_Ing_250,145124009k,311.0,Portuaria,Bolívar,433.0,7341.87,14265.0,2010,En Ejecución
+251,Proyecto_Ing_251,507497933.44,,Portuaria,Guaviare,172.0,29513.26,12906.0,2022,Finalizado
+252,Proyecto_Ing_252,27693486.97,60.0,Urbana,Cundinamarca,145.0,40125.96,13065.0,2011,En Ejecución
+253,Proyecto_Ing_253,559162219k,178.0,Urbana,Valle del Cauca,,87006.09,,2014,En Planificación
+254,Proyecto_Ing_254,705173666.34,76.0,Energética,Cauca,,15165.74,,2014,Suspendido
+255,Proyecto_Ing_255,598410106.07,339.0,Portuaria,Putumayo,516.0,47763.01,11970.0,2020,En Ejecución
+256,Proyecto_Ing_256,,183.0,Portuaria,Bolívar,369.0,22654.66,8387.0,2018,Suspendido
+257,Proyecto_Ing_257,134947819.11,55.0,Acueducto,Magdalena,258.0,,5385.0,2017,En Ejecución
+258,Proyecto_Ing_258,252883073.3,363.0,Saneamiento,Caldas,905.0,40569.7,,2019,En Ejecución
+259,Proyecto_Ing_259,823409736.72,,Residencial,Tolima,206.0,14654.41,12073.0,2015,En Planificación
+260,Proyecto_Ing_260,177077957.22,178.0,Industrial,Boyacá,,,4614.0,2018,Suspendido
+261,Proyecto_Ing_261,526837651.16,327.0,Aeroportuaria,Chocó,610.0,68224.03,,2012,Suspendido
+262,Proyecto_Ing_262,343522390.78,51.0,Energética,Guaviare,382.0,,11772.0,2018,En Ejecución
+263,Proyecto_Ing_263,309477966.54,227.0,Minería,Norte de Santander,218.0,46103.51,5103.0,2021,Suspendido
+264,Proyecto_Ing_264,751728298.76,329.0,Urbana,Caquetá,128.0,13295.74,,2013,En Planificación
+265,Proyecto_Ing_265,409965543.76,158.0,Puente,Arauca,49.0,50860.74,7353.0,2017,En Ejecución
+266,Proyecto_Ing_266,141444755.3,334.0,Urbana,Casanare,,64181.11,,2015,En Planificación
+267,Proyecto_Ing_267,838781107.81,303.0,Energética,Atlántico,913.0,47289.06,5386.0,2011,Finalizado
+268,Proyecto_Ing_268,,307.0,Energética,Amazonas,439.0,,5437.0,2013,Suspendido
+269,Proyecto_Ing_269,340922391.11,150.0,Energética,Quindío,218.0,86706.08,,2013,En Ejecución
+270,Proyecto_Ing_270,481870307.67,214.0,Ambiental,Amazonas,401.0,2617.0,12715.0,2011,Suspendido
+271,Proyecto_Ing_271,418378054.44,268.0,Ambiental,Guaviare,667.0,,3102.0,2024,Suspendido
+272,Proyecto_Ing_272,,265.0,Residencial,Huila,582.0,30762.85,14804.0,2023,En Planificación
+273,Proyecto_Ing_273,250242058.72,239.0,Transporte Masivo,La Guajira,153.0,,7961.0,2019,En Ejecución
+274,Proyecto_Ing_274,810396800.08,318.0,Industrial,Valle del Cauca,205.0,,3123.0,2018,En Ejecución
+275,Proyecto_Ing_275,181482084.27,173.0,Edificación,Bolívar,843.0,,4770.0,2021,En Planificación
+276,Proyecto_Ing_276,651682919.54,187.0,Residencial,Valle del Cauca,926.0,57080.69,,2011,Finalizado
+277,Proyecto_Ing_277,13892364.78,268.0,Férrea,Cauca,517.0,19890.86,11082.0,2019,Finalizado
+278,Proyecto_Ing_278,625149015.62,98.0,Industrial,Arauca,781.0,81291.66,2622.0,2021,En Planificación
+279,Proyecto_Ing_279,113136138.64,171.0,Urbana,Putumayo,551.0,70240.18,2439.0,2012,Finalizado
+280,Proyecto_Ing_280,578109549.6,84.0,Industrial,Guainía,66.0,6633.67,7480.0,2017,En Ejecución
+281,Proyecto_Ing_281,829446105.71,234.0,Portuaria,Tolima,277.0,3843.83,,2019,Suspendido
+282,Proyecto_Ing_282,,195.0,Energética,Amazonas,,68047.96,10463.0,2020,En Planificación
+283,Proyecto_Ing_283,545492722.52,52.0,Saneamiento,Vichada,,89617.65,7705.0,2011,En Planificación
+284,Proyecto_Ing_284,240775602.26,159.0,Edificación,Vaupés,76.0,83633.26,14575.0,2024,Suspendido
+285,Proyecto_Ing_285,931786159.6,185.0,Vial,Nariño,763.0,21960.61,11743.0,2018,En Ejecución
+286,Proyecto_Ing_286,586917897.37,151.0,Minería,Vichada,867.0,43053.7,6167.0,2016,En Planificación
+287,Proyecto_Ing_287,788783810.39,370.0,Minería,Atlántico,,39456.84,,2012,En Ejecución
+288,Proyecto_Ing_288,908723058.74,,Energética,Cundinamarca,267.0,20424.39,6361.0,2012,Suspendido
+289,Proyecto_Ing_289,97256362.38,199.0,Aeroportuaria,San Andrés y Providencia,638.0,43996.03,4226.0,2019,En Planificación
+290,Proyecto_Ing_290,609567195.25,170.0,Portuaria,Atlántico,129.0,39290.24,,2013,Suspendido
+291,Proyecto_Ing_291,,369.0,Hidráulica,Guainía,392.0,,2021.0,2024,Suspendido
+292,Proyecto_Ing_292,,260.0,Puente,Atlántico,,96479.13,4823.0,2017,En Planificación
+293,Proyecto_Ing_293,,336.0,Saneamiento,Valle del Cauca,853.0,82025.51,10283.0,2017,En Planificación
+294,Proyecto_Ing_294,,69.0,Acueducto,Antioquia,366.0,30469.63,12837.0,2015,Suspendido
+295,Proyecto_Ing_295,623463897.26,138.0,Minería,Huila,245.0,14811.91,497.0,2018,Finalizado
+296,Proyecto_Ing_296,,383.0,Ambiental,Bolívar,88.0,9823.88,,2010,Finalizado
+297,Proyecto_Ing_297,845885815.84,237.0,Hidráulica,Sucre,123.0,,12445.0,2014,En Planificación
+298,Proyecto_Ing_298,320608290.97,153.0,Férrea,Vichada,643.0,68569.23,1147.0,2010,En Ejecución
+299,Proyecto_Ing_299,605971152.78,333.0,Energética,Cesar,982.0,,9271.0,2021,Suspendido
+300,Proyecto_Ing_300,251000650.92,254.0,Ambiental,Guaviare,950.0,20196.43,7141.0,2014,Finalizado
+301,Proyecto_Ing_301,452226068.9,126.0,Transporte Masivo,Guainía,114.0,58782.47,5261.0,2014,Suspendido
+302,Proyecto_Ing_302,938130984.12,310.0,Edificación,Boyacá,920.0,,14551.0,2023,Finalizado
+303,Proyecto_Ing_303,345452739.28,374.0,Férrea,Sucre,542.0,24223.49,146.0,2013,En Ejecución
+304,Proyecto_Ing_304,310778189.73,357.0,Ambiental,Casanare,872.0,55518.34,10027.0,2020,Finalizado
+305,Proyecto_Ing_305,90861195.06,79.0,Aeroportuaria,Caquetá,454.0,,7874.0,2017,En Ejecución
+306,Proyecto_Ing_306,853466475.0,330.0,Transporte Masivo,Vichada,728.0,,4298.0,2018,En Planificación
+307,Proyecto_Ing_307,786378220.67,321.0,Industrial,Chocó,246.0,,,2022,Suspendido
+308,Proyecto_Ing_308,653962212.7,370.0,Transporte Masivo,Atlántico,967.0,40812.0,5031.0,2018,Suspendido
+309,Proyecto_Ing_309,847064998.86,396.0,Industrial,Caldas,368.0,12672.18,7321.0,2019,En Ejecución
+310,Proyecto_Ing_310,2477938.28,186.0,Saneamiento,Meta,,37974.94,11990.0,2015,En Planificación
+311,Proyecto_Ing_311,552490336.16,260.0,Minería,Boyacá,132.0,10579.21,4470.0,2024,En Planificación
+312,Proyecto_Ing_312,788495936.87,255.0,Puente,Vichada,686.0,,872.0,2021,En Ejecución
+313,Proyecto_Ing_313,744917547.2,144.0,Industrial,Caquetá,199.0,61504.68,2895.0,2015,Finalizado
+314,Proyecto_Ing_314,573496743.66,279.0,Transporte Masivo,Tolima,977.0,66259.75,,2019,En Ejecución
+315,Proyecto_Ing_315,346244212.68,97.0,Energética,Putumayo,455.0,57771.33,3640.0,2022,En Planificación
+316,Proyecto_Ing_316,847667510.19,194.0,Ambiental,Vaupés,72.0,2976.27,2865.0,2024,Suspendido
+317,Proyecto_Ing_317,366636834.42,276.0,Férrea,Guainía,,94176.22,2814.0,2018,Suspendido
+318,Proyecto_Ing_318,656872675.72,,Transporte Masivo,Caldas,330.0,,1190.0,2017,En Planificación
+319,Proyecto_Ing_319,810793037.34,229.0,Industrial,Casanare,403.0,49989.23,10118.0,2012,Suspendido
+320,Proyecto_Ing_320,232047362h,177.0,Portuaria,Sucre,693.0,2106.12,9288.0,2021,En Planificación
+321,Proyecto_Ing_321,491890884h,312.0,Residencial,Quindío,79.0,73765.99,2244.0,2019,En Ejecución
+322,Proyecto_Ing_322,467929625.1,386.0,Puente,Risaralda,,38761.67,13170.0,2022,Suspendido
+323,Proyecto_Ing_323,736907638.39,192.0,Energética,Atlántico,789.0,,5978.0,2021,En Planificación
+324,Proyecto_Ing_324,432931733.57,105.0,Minería,Magdalena,,,1263.0,2023,En Planificación
+325,Proyecto_Ing_325,680077346.04,231.0,Aeroportuaria,Tolima,988.0,34074.58,,2012,Finalizado
+326,Proyecto_Ing_326,,292.0,Puente,Chocó,96.0,9722.27,5302.0,2010,Suspendido
+327,Proyecto_Ing_327,95514908.33,249.0,Ambiental,Antioquia,248.0,67731.59,7843.0,2011,Finalizado
+328,Proyecto_Ing_328,442525031.43,375.0,Edificación,Valle del Cauca,996.0,,10549.0,2022,Finalizado
+329,Proyecto_Ing_329,369802920.18,400.0,Edificación,San Andrés y Providencia,,,494.0,2015,Finalizado
+330,Proyecto_Ing_330,195621100.67,335.0,Energética,Cauca,207.0,45442.8,1739.0,2014,En Ejecución
+331,Proyecto_Ing_331,592987359.07,368.0,Energética,Caldas,992.0,59963.51,,2013,Suspendido
+332,Proyecto_Ing_332,149380851.19,256.0,Saneamiento,Guaviare,63.0,15608.73,3260.0,2022,Finalizado
+333,Proyecto_Ing_333,,173.0,Férrea,Boyacá,890.0,79419.6,1230.0,2011,En Planificación
+334,Proyecto_Ing_334,340264853.42,329.0,Minería,Sucre,,37160.81,,2024,Finalizado
+335,Proyecto_Ing_335,770282877.88,57.0,Minería,Bolívar,560.0,29747.22,10956.0,2022,Finalizado
+336,Proyecto_Ing_336,918312586.87,219.0,Transporte Masivo,Santander,623.0,74438.87,11583.0,2022,Suspendido
+337,Proyecto_Ing_337,332306093.65,383.0,Portuaria,Casanare,738.0,,,2023,En Planificación
+338,Proyecto_Ing_338,,206.0,Aeroportuaria,Santander,583.0,82097.7,14699.0,2022,En Planificación
+339,Proyecto_Ing_339,864068191.79,204.0,Minería,Putumayo,361.0,38936.96,13916.0,2017,En Planificación
+340,Proyecto_Ing_340,827658566k,363.0,Transporte Masivo,Nariño,150.0,76553.31,6304.0,2013,Suspendido
+341,Proyecto_Ing_341,498545900.28,163.0,Portuaria,Arauca,921.0,13603.68,3569.0,2011,En Planificación
+342,Proyecto_Ing_342,374655082k,96.0,Puente,Santander,476.0,8885.41,13741.0,2016,Finalizado
+343,Proyecto_Ing_343,596981209.98,310.0,Transporte Masivo,Caquetá,679.0,31695.83,,2015,Suspendido
+344,Proyecto_Ing_344,,63.0,Energética,Magdalena,962.0,59448.07,5768.0,2016,Suspendido
+345,Proyecto_Ing_345,598450035.21,135.0,Aeroportuaria,Casanare,944.0,44907.31,11199.0,2019,Suspendido
+346,Proyecto_Ing_346,100024980.38,,Saneamiento,Boyacá,367.0,43822.49,,2012,Suspendido
+347,Proyecto_Ing_347,29022240.15,,Acueducto,Chocó,948.0,96789.62,13661.0,2015,En Planificación
+348,Proyecto_Ing_348,704807835.65,203.0,Residencial,Bolívar,721.0,36383.63,7348.0,2012,En Planificación
+349,Proyecto_Ing_349,241176684.64,211.0,Urbana,Huila,875.0,33374.52,7653.0,2018,En Ejecución
+350,Proyecto_Ing_350,343690105.04,351.0,Saneamiento,Meta,514.0,21646.85,,2019,En Planificación
+351,Proyecto_Ing_351,408423395k,241.0,Transporte Masivo,Norte de Santander,245.0,92890.95,8678.0,2019,En Planificación
+352,Proyecto_Ing_352,583522355.89,232.0,Vial,Putumayo,861.0,12724.44,784.0,2016,Suspendido
+353,Proyecto_Ing_353,212301848.3,150.0,Saneamiento,Guaviare,34.0,71403.93,958.0,2011,Finalizado
+354,Proyecto_Ing_354,858392476.95,331.0,Vial,Vichada,565.0,5907.57,11780.0,2015,Finalizado
+355,Proyecto_Ing_355,355771138.35,109.0,Residencial,Valle del Cauca,282.0,80838.47,,2018,Finalizado
+356,Proyecto_Ing_356,800765291.31,398.0,Transporte Masivo,Putumayo,289.0,17710.56,2674.0,2016,En Ejecución
+357,Proyecto_Ing_357,,307.0,Puente,Atlántico,726.0,69981.19,6266.0,2024,Suspendido
+358,Proyecto_Ing_358,754318906.88,,Ambiental,Guainía,903.0,7182.11,6330.0,2018,En Planificación
+359,Proyecto_Ing_359,573673220.22,,Ambiental,Casanare,,58666.77,10283.0,2019,Suspendido
+360,Proyecto_Ing_360,210045668.17,210.0,Edificación,Atlántico,162.0,11184.13,13843.0,2018,Suspendido
+361,Proyecto_Ing_361,92350441.68,279.0,Hidráulica,Huila,525.0,94349.32,4529.0,2024,En Planificación
+362,Proyecto_Ing_362,801470228.08,99.0,Edificación,Caldas,421.0,99108.97,2967.0,2021,Finalizado
+363,Proyecto_Ing_363,806953483.7,274.0,Puente,Guainía,706.0,26784.51,,2020,Suspendido
+364,Proyecto_Ing_364,55739636.83,202.0,Aeroportuaria,Huila,34.0,23364.9,,2011,En Ejecución
+365,Proyecto_Ing_365,368577623h,361.0,Residencial,Guaviare,679.0,,14296.0,2023,En Planificación
+366,Proyecto_Ing_366,403200977.34,67.0,Industrial,Cundinamarca,66.0,,12411.0,2010,En Ejecución
+367,Proyecto_Ing_367,783345314.91,369.0,Aeroportuaria,Cauca,185.0,79309.88,,2015,Suspendido
+368,Proyecto_Ing_368,497566808.27,232.0,Transporte Masivo,Norte de Santander,509.0,45030.9,1153.0,2015,En Ejecución
+369,Proyecto_Ing_369,957992159.38,297.0,Transporte Masivo,Amazonas,764.0,49519.2,9696.0,2018,En Planificación
+370,Proyecto_Ing_370,,300.0,Urbana,Sucre,171.0,37122.94,2438.0,2013,En Planificación
+371,Proyecto_Ing_371,,291.0,Edificación,La Guajira,323.0,30818.67,7738.0,2017,En Ejecución
+372,Proyecto_Ing_372,973826186.85,330.0,Aeroportuaria,Boyacá,378.0,,282.0,2022,Finalizado
+373,Proyecto_Ing_373,259389210.47,148.0,Energética,Guainía,479.0,,14933.0,2014,Suspendido
+374,Proyecto_Ing_374,739720450.22,356.0,Residencial,Nariño,261.0,13926.6,9010.0,2018,En Planificación
+375,Proyecto_Ing_375,910798897.92,383.0,Férrea,Sucre,832.0,35782.27,3612.0,2014,Suspendido
+376,Proyecto_Ing_376,908398762.96,356.0,Vial,Putumayo,949.0,21058.53,6418.0,2019,Suspendido
+377,Proyecto_Ing_377,536414647.22,293.0,Acueducto,Cauca,617.0,77754.81,,2017,En Ejecución
+378,Proyecto_Ing_378,463537624.93,99.0,Puente,Putumayo,,78274.37,11513.0,2022,Finalizado
+379,Proyecto_Ing_379,12949968.35,371.0,Industrial,Sucre,174.0,36455.61,10256.0,2020,En Planificación
+380,Proyecto_Ing_380,135467128.4,77.0,Minería,Amazonas,319.0,14941.86,7307.0,2011,Finalizado
+381,Proyecto_Ing_381,731561821.11,305.0,Edificación,Norte de Santander,345.0,53719.68,,2018,En Planificación
+382,Proyecto_Ing_382,697345598.45,273.0,Férrea,Tolima,715.0,28270.4,,2011,Suspendido
+383,Proyecto_Ing_383,966169767.8,311.0,Energética,La Guajira,56.0,,3583.0,2014,Finalizado
+384,Proyecto_Ing_384,259038343.05,271.0,Transporte Masivo,Casanare,369.0,58407.78,2859.0,2021,Suspendido
+385,Proyecto_Ing_385,840556645.65,399.0,Residencial,Vichada,,29467.67,10802.0,2012,En Ejecución
+386,Proyecto_Ing_386,106704260.63,88.0,Portuaria,Córdoba,381.0,25605.97,7527.0,2024,En Planificación
+387,Proyecto_Ing_387,183607082.01,,Portuaria,Meta,795.0,,7360.0,2012,En Planificación
+388,Proyecto_Ing_388,797390274.79,180.0,Aeroportuaria,Norte de Santander,173.0,15766.01,14857.0,2022,Suspendido
+389,Proyecto_Ing_389,677287635.95,395.0,Férrea,Vaupés,561.0,58551.94,,2012,En Planificación
+390,Proyecto_Ing_390,46427410.33,306.0,Residencial,Bolívar,,80287.12,4983.0,2013,Finalizado
+391,Proyecto_Ing_391,582237528.63,,Saneamiento,Arauca,,8568.17,,2014,Suspendido
+392,Proyecto_Ing_392,660133198k,321.0,Industrial,Amazonas,687.0,11363.05,2960.0,2012,En Planificación
+393,Proyecto_Ing_393,835071265.8,131.0,Hidráulica,Atlántico,646.0,13920.72,13872.0,2010,Suspendido
+394,Proyecto_Ing_394,791730015.2,303.0,Portuaria,Caldas,65.0,84904.75,3207.0,2020,Finalizado
+395,Proyecto_Ing_395,91214953.36,291.0,Edificación,Cesar,,92493.17,8285.0,2014,Finalizado
+396,Proyecto_Ing_396,586934242h,399.0,Férrea,Casanare,273.0,87202.32,,2013,En Ejecución
+397,Proyecto_Ing_397,851707850h,174.0,Transporte Masivo,Vaupés,665.0,2037.58,4279.0,2017,Finalizado
+398,Proyecto_Ing_398,70910612.58,,Energética,Cauca,22.0,25732.64,11424.0,2024,En Ejecución
+399,Proyecto_Ing_399,374523961h,288.0,Transporte Masivo,Bolívar,616.0,53177.24,,2010,Finalizado
+400,Proyecto_Ing_400,432290320.64,307.0,Edificación,Putumayo,483.0,75939.35,5398.0,2011,Finalizado
+401,Proyecto_Ing_401,914098375.6,324.0,Vial,Vichada,878.0,12810.96,2239.0,2016,En Planificación
+402,Proyecto_Ing_402,711030471.59,363.0,Puente,Chocó,243.0,94631.1,,2011,En Planificación
+403,Proyecto_Ing_403,332941520.63,,Industrial,Cauca,954.0,,1448.0,2018,Finalizado
+404,Proyecto_Ing_404,377086527.63,,Edificación,Antioquia,549.0,30000.36,6716.0,2024,Suspendido
+405,Proyecto_Ing_405,125308784.07,205.0,Acueducto,Atlántico,436.0,,5868.0,2015,En Ejecución
+406,Proyecto_Ing_406,171573037.33,,Saneamiento,Bolívar,582.0,7261.38,10786.0,2019,En Planificación
+407,Proyecto_Ing_407,,330.0,Edificación,Vichada,841.0,18846.87,3501.0,2024,Finalizado
+408,Proyecto_Ing_408,259277814.94,239.0,Acueducto,Vichada,506.0,,4653.0,2016,En Planificación
+409,Proyecto_Ing_409,,199.0,Transporte Masivo,Nariño,621.0,10232.04,13663.0,2013,Suspendido
+410,Proyecto_Ing_410,894173254.15,92.0,Saneamiento,Huila,157.0,21084.9,11856.0,2019,En Planificación
+411,Proyecto_Ing_411,327879812.18,267.0,Puente,Antioquia,928.0,,10179.0,2010,Finalizado
+412,Proyecto_Ing_412,,141.0,Vial,La Guajira,858.0,30008.27,1941.0,2023,En Planificación
+413,Proyecto_Ing_413,191681894.07,64.0,Energética,Huila,217.0,23247.87,14087.0,2023,Finalizado
+414,Proyecto_Ing_414,,280.0,Hidráulica,Valle del Cauca,,23691.03,11135.0,2011,En Planificación
+415,Proyecto_Ing_415,60446958.93,319.0,Minería,Caldas,636.0,12643.39,10440.0,2024,Suspendido
+416,Proyecto_Ing_416,997658952.46,62.0,Vial,Nariño,383.0,,12658.0,2013,En Planificación
+417,Proyecto_Ing_417,856832320.45,51.0,Energética,Risaralda,715.0,,14105.0,2017,En Ejecución
+418,Proyecto_Ing_418,987125183.86,65.0,Puente,Vaupés,916.0,,613.0,2015,En Planificación
+419,Proyecto_Ing_419,88228800k,387.0,Férrea,Santander,671.0,,4686.0,2020,En Planificación
+420,Proyecto_Ing_420,356064193.39,50.0,Vial,Santander,531.0,77514.89,,2017,En Planificación
+421,Proyecto_Ing_421,330232049.3,367.0,Minería,San Andrés y Providencia,760.0,41583.66,6726.0,2023,Finalizado
+422,Proyecto_Ing_422,280139277.9,173.0,Hidráulica,Huila,,,6074.0,2012,En Planificación
+423,Proyecto_Ing_423,65005094.15,355.0,Hidráulica,Magdalena,980.0,97997.06,14642.0,2023,En Planificación
+424,Proyecto_Ing_424,206500800.23,185.0,Vial,Antioquia,650.0,69524.05,4220.0,2024,Finalizado
+425,Proyecto_Ing_425,33035704.12,356.0,Minería,Risaralda,,69930.15,,2023,Finalizado
+426,Proyecto_Ing_426,93730529.83,297.0,Edificación,San Andrés y Providencia,785.0,,2957.0,2015,En Ejecución
+427,Proyecto_Ing_427,751248517.35,127.0,Vial,Vichada,333.0,,490.0,2017,Finalizado
+428,Proyecto_Ing_428,,312.0,Residencial,Sucre,615.0,,14207.0,2015,En Ejecución
+429,Proyecto_Ing_429,769813290.88,151.0,Vial,Nariño,618.0,,,2016,En Ejecución
+430,Proyecto_Ing_430,638733672.35,240.0,Puente,Valle del Cauca,,36936.42,,2010,En Planificación
+431,Proyecto_Ing_431,659169697.99,204.0,Férrea,Putumayo,634.0,97106.81,3965.0,2012,Suspendido
+432,Proyecto_Ing_432,24569521.63,262.0,Ambiental,Antioquia,921.0,,,2010,Suspendido
+433,Proyecto_Ing_433,254469569.58,274.0,Aeroportuaria,Antioquia,897.0,50269.28,5014.0,2014,En Planificación
+434,Proyecto_Ing_434,285956438.99,77.0,Vial,Cundinamarca,721.0,72449.42,2705.0,2014,En Ejecución
+435,Proyecto_Ing_435,,391.0,Saneamiento,Nariño,210.0,,,2017,Finalizado
+436,Proyecto_Ing_436,242980573.2,160.0,Saneamiento,Santander,485.0,88924.27,,2011,Finalizado
+437,Proyecto_Ing_437,468674313.54,138.0,Minería,Caldas,940.0,85147.54,13064.0,2021,Finalizado
+438,Proyecto_Ing_438,366563969.5,146.0,Energética,Risaralda,793.0,25843.06,,2018,Suspendido
+439,Proyecto_Ing_439,12941095.29,215.0,Minería,Caquetá,,82295.09,13712.0,2019,En Planificación
+440,Proyecto_Ing_440,159162358.27,276.0,Transporte Masivo,Cundinamarca,910.0,,7980.0,2012,Finalizado
+441,Proyecto_Ing_441,156802632h,167.0,Transporte Masivo,Chocó,657.0,73382.59,,2023,Finalizado
+442,Proyecto_Ing_442,100404755.86,340.0,Transporte Masivo,Cundinamarca,,,11216.0,2019,Finalizado
+443,Proyecto_Ing_443,939029552.34,353.0,Urbana,Sucre,237.0,76594.23,6459.0,2016,En Ejecución
+444,Proyecto_Ing_444,,374.0,Acueducto,Sucre,599.0,59862.15,5784.0,2013,Finalizado
+445,Proyecto_Ing_445,177586862.82,113.0,Puente,Putumayo,411.0,43636.42,8500.0,2019,Finalizado
+446,Proyecto_Ing_446,992731673.34,354.0,Férrea,Valle del Cauca,500.0,,6948.0,2017,Suspendido
+447,Proyecto_Ing_447,,116.0,Férrea,Guaviare,304.0,98652.57,,2022,Finalizado
+448,Proyecto_Ing_448,985475842.99,191.0,Ambiental,Guainía,184.0,73663.39,,2013,Finalizado
+449,Proyecto_Ing_449,536447346.5,150.0,Portuaria,Cauca,,72248.12,14784.0,2010,En Ejecución
+450,Proyecto_Ing_450,167744113h,102.0,Industrial,Sucre,848.0,,226.0,2010,En Ejecución
+451,Proyecto_Ing_451,,179.0,Puente,Atlántico,602.0,6140.66,,2021,En Ejecución
+452,Proyecto_Ing_452,851074665.88,142.0,Acueducto,Bolívar,,,10090.0,2013,En Ejecución
+453,Proyecto_Ing_453,765889946.7,189.0,Acueducto,Meta,958.0,28654.47,4790.0,2020,Suspendido
+454,Proyecto_Ing_454,576030720.1,58.0,Vial,Guaviare,617.0,37542.34,5084.0,2012,Finalizado
+455,Proyecto_Ing_455,,235.0,Energética,Putumayo,60.0,39304.97,12298.0,2024,En Ejecución
+456,Proyecto_Ing_456,900714482.07,359.0,Acueducto,Atlántico,890.0,32998.41,8027.0,2014,En Planificación
+457,Proyecto_Ing_457,,334.0,Residencial,La Guajira,548.0,,14026.0,2020,En Planificación
+458,Proyecto_Ing_458,387058553h,,Férrea,Magdalena,179.0,42408.45,13909.0,2022,Finalizado
+459,Proyecto_Ing_459,470059379.44,334.0,Urbana,Putumayo,753.0,85702.08,5253.0,2018,Finalizado
+460,Proyecto_Ing_460,297038125.48,388.0,Férrea,Guaviare,326.0,98891.12,,2010,Suspendido
+461,Proyecto_Ing_461,278855657.22,70.0,Minería,La Guajira,805.0,,457.0,2018,Finalizado
+462,Proyecto_Ing_462,795910914.62,283.0,Ambiental,Cauca,261.0,65485.64,,2011,En Planificación
+463,Proyecto_Ing_463,908843941.69,124.0,Urbana,Caquetá,959.0,50868.76,10374.0,2024,Suspendido
+464,Proyecto_Ing_464,710688883.46,305.0,Saneamiento,Antioquia,943.0,,7261.0,2014,Suspendido
+465,Proyecto_Ing_465,,226.0,Acueducto,Córdoba,911.0,54421.38,,2010,En Ejecución
+466,Proyecto_Ing_466,642724514.15,279.0,Industrial,Cundinamarca,273.0,,,2022,En Ejecución
+467,Proyecto_Ing_467,597502332.2,282.0,Urbana,San Andrés y Providencia,728.0,30223.89,343.0,2016,Suspendido
+468,Proyecto_Ing_468,812609037.89,151.0,Edificación,Chocó,480.0,12313.44,,2020,En Ejecución
+469,Proyecto_Ing_469,577276697.12,215.0,Portuaria,Caldas,164.0,28635.13,7725.0,2013,En Ejecución
+470,Proyecto_Ing_470,187137116.38,357.0,Hidráulica,Bolívar,844.0,68190.0,12778.0,2024,Finalizado
+471,Proyecto_Ing_471,330006627k,87.0,Industrial,Vaupés,735.0,22120.42,6836.0,2014,Suspendido
+472,Proyecto_Ing_472,241639245.33,392.0,Portuaria,Casanare,931.0,6874.4,7601.0,2023,Finalizado
+473,Proyecto_Ing_473,187501945.72,,Urbana,Vichada,262.0,,1149.0,2024,En Ejecución
+474,Proyecto_Ing_474,521153426.86,61.0,Hidráulica,Córdoba,962.0,33019.73,7487.0,2020,Finalizado
+475,Proyecto_Ing_475,390325000.73,357.0,Saneamiento,Sucre,573.0,30668.31,3753.0,2017,Finalizado
+476,Proyecto_Ing_476,327927370.14,165.0,Aeroportuaria,Meta,,,2727.0,2023,En Ejecución
+477,Proyecto_Ing_477,972117539.27,389.0,Energética,La Guajira,,24121.83,14670.0,2023,En Ejecución
+478,Proyecto_Ing_478,875221836h,236.0,Acueducto,Putumayo,881.0,61207.16,1980.0,2015,Finalizado
+479,Proyecto_Ing_479,814174338.99,235.0,Residencial,Bolívar,519.0,78437.81,6030.0,2016,En Ejecución
+480,Proyecto_Ing_480,903038935.66,371.0,Portuaria,Caquetá,295.0,64570.88,9117.0,2017,Finalizado
+481,Proyecto_Ing_481,48352545.99,266.0,Férrea,Atlántico,654.0,59421.15,3297.0,2021,Suspendido
+482,Proyecto_Ing_482,503031251.34,118.0,Férrea,Risaralda,,24545.2,1315.0,2013,Suspendido
+483,Proyecto_Ing_483,680124508.58,108.0,Residencial,Cesar,302.0,9485.97,1927.0,2019,En Ejecución
+484,Proyecto_Ing_484,,283.0,Residencial,Cesar,,73669.18,2161.0,2016,En Ejecución
+485,Proyecto_Ing_485,560432178.46,397.0,Ambiental,Guainía,594.0,38441.81,5464.0,2013,En Planificación
+486,Proyecto_Ing_486,95058875.44,330.0,Hidráulica,Risaralda,287.0,78434.3,11328.0,2017,En Ejecución
+487,Proyecto_Ing_487,783065410.17,289.0,Residencial,Amazonas,572.0,42215.9,2391.0,2010,En Ejecución
+488,Proyecto_Ing_488,903723167.77,252.0,Hidráulica,Vichada,48.0,2259.23,11917.0,2022,Suspendido
+489,Proyecto_Ing_489,,295.0,Puente,Cauca,744.0,,,2024,En Planificación
+490,Proyecto_Ing_490,724671942.83,317.0,Edificación,Vaupés,404.0,,13900.0,2010,En Planificación
+491,Proyecto_Ing_491,741528171.43,58.0,Ambiental,Cesar,390.0,59820.5,6081.0,2021,En Planificación
+492,Proyecto_Ing_492,600418898.29,297.0,Energética,Chocó,298.0,69200.41,3862.0,2017,En Ejecución
+493,Proyecto_Ing_493,331059069.37,78.0,Energética,Casanare,,47865.81,4468.0,2011,Finalizado
+494,Proyecto_Ing_494,496427328.96,371.0,Minería,Meta,622.0,29630.01,,2012,En Ejecución
+495,Proyecto_Ing_495,411573328.82,93.0,Industrial,Norte de Santander,112.0,66035.96,5918.0,2016,Finalizado
+496,Proyecto_Ing_496,61368806.64,,Puente,Vichada,,81320.07,3218.0,2014,Suspendido
+497,Proyecto_Ing_497,111704531.71,367.0,Transporte Masivo,Chocó,165.0,72302.28,8513.0,2018,Finalizado
+498,Proyecto_Ing_498,957834587.49,200.0,Hidráulica,Santander,118.0,9809.78,10907.0,2017,En Planificación
+499,Proyecto_Ing_499,560637577.96,217.0,Vial,San Andrés y Providencia,82.0,89509.0,5564.0,2019,En Ejecución
+500,Proyecto_Ing_500,290129169.31,256.0,Transporte Masivo,La Guajira,361.0,,5855.0,2016,Suspendido

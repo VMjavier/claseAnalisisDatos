@@ -1,0 +1,12 @@
+ID_Producto,Producto,Region,Categoria,Peso_Kg,Precio_COP,Rendimiento_ha,Costo_Produccion,Empleos_Generados,Fecha_Cosecha
+P001,Arroz,Tolima,Grano,50kg,$120.000,5.2 ton/ha,$2.500.000,12,2023-08-15
+P002,Café,Antioquia,Grano,,"$1.800.000",,1.200.000,8,15/09/2023
+P-003,Banano,Magdalena,Fruta,25.5kg,750.000,18.200 kg/ha,$3.800.000,32,2023-10-01
+4,Aguacate,Santander,Fruta,18000g,$2.300.000,12.5,4.500.000,,2023-11-15
+P005,Flores,Cundinamarca,Ornamental,,,8.200 m²,1.800.000,45,2024-02-28
+6,Plátano,Huila,Fruta,30kg,$900000,10.8 ton/ha,$2.200.000,18,28/02/2024
+007,Maíz,Meta,Grano,45.5,1.100.000,7.5,Three million,12,2023-07-10
+P008,Papa,Boyacá,Tubérculo,75kg,$1.050.000,25 toneladas,$4.000.000,22,2023-12-01
+9,,Cauca,Fruta,18kg,$850.000,9.3,,15,10/01/2024
+P010,Caña Panelera,Caldas,Grano,110.2kg,$950.000,42.5 t/ha,$3.200.000,28,2023-06-30
+... (490 registros más)
